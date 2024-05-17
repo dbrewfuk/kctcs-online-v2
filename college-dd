@@ -1,0 +1,48 @@
+
+College Dropdown 
+
+
+{plan.colleges.length > 0 ? (
+                            <div>
+                              <div
+                                className="px-[32px] rounded-full py-[12px] whitespace-nowrap text-ellipsis overflow-hidden cursor-pointer font-semibold bg-gray-100 text-[#00467F] text-[18px] text-center"
+                                onClick={() => {
+                                  toggleDropdown(index);
+                                }}
+                              >
+                                {selectedColleges[index]?.name
+                                  ? selectedColleges[index]?.name
+                                  : `Available at ${plan.colleges.length} Colleges`}
+                              </div>
+                              {selectedCollegeIndex === index && (
+                                <div className="p-4 absolute bg-white border shadow flex flex-col items-center gap-2">
+                                  {plan.colleges.map(
+                                    (college, collegeIndex) => (
+                                      <div
+                                        className="font-semibold text-[#00467F] cursor-pointer"
+                                        key={collegeIndex}
+                                        onClick={() => {
+                                          handleCollegeChange(
+                                            index,
+                                            college.name,
+                                            college.url,
+                                          );
+                                          toggleDropdown(index);
+                                        }}
+                                      >
+                                        {college.name}
+                                      </div>
+                                    ),
+                                  )}
+                                </div>
+                              )}
+                            </div>
+                          ) : (
+                            <button
+                              type="button"
+                              className=" bg-gray-300 w-100 mb-2"
+                              disabled
+                            >
+                              No Colleges Available
+                            </button>
+                          )}

@@ -1,0 +1,843 @@
+[
+  {
+    "id": "1",
+    "program": "Business Administration",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Certificate",
+    "description": "Can you picture yourself in an office setting, collaborating with a team to solve business problems? We can help you get there.",
+    "keywords": "Small business, Leadership, Management, Accounting Recordkeeping Specialist, Accounting Track, Accounting, Accounting, Advanced Business Administration, Business Transfer, Data entry Operator, Entrepreneurship, Equine Business Management, Financial Perspectives, General Business, Hospitality Management, Hospitality Management Track, Human Resources Management, Human Resources Management Track, Marketing and Retailing Track, Leadership, Management, Management Track, Office Systems Track, Operations Management, Organizational Leadership, Payroll Accounting Specialist, Pre-Licensing Real Estate, Public Leadership, Real Estate Management Track, Residential Real Estate, Small Business Management, Small Business Management, Supervisory Management, Team Leadership",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting Recordkeeping Specialist",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Accounting",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Business",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://gateway.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Henderson Community College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/business-administration-systems.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/business-administration-systems.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Associate in Arts (AA)",
+    "sector": "Humanities",
+    "degree": "Associate",
+    "description": "Bachelor's Bound? Our AA degree transfers easily to a university for continued education in areas like Elementary Education, Psychology and Social Work.",
+    "keywords": "Graphic Designer, Art Director",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-arts.aspx"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Associate in Science (AS)",
+    "degree": "Academics Support",
+    "sector": "Science",
+    "description": "Bachelor’s Bound? Our AS degree transfers easily to a university for continued education in areas like Biology, Engineering, Pre-Med and Pre-Vet.",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-science.aspx"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Computer and Information Technologies",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Get the hands on experience you need to design, maintain and use different computing technologies.",
+    "keywords": "Software Engineer, A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Geospatial Technologies, Informatics Advanced, Informatics Generalist, Informatics Programming Informatics Track, Information Security Specialist, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Technologies, Network Technologies Specialist, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Video Game Design, Video Game Design, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/computer-information-technology.aspx"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web ProgrammerA+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, CIT Fundamentals, Computer Tech Basic, Net+ Prep, Programmer, Security+ Prep, Web Programmer"
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, CIT Fundamentals, Computer Tech Basic, Net+ Prep, Programmer, Security+ Prep, Web Programmer"
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Productivity Software Specialist , Programmer, Programming Track, Security+ Prep, Social Media Specialist, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, Computer Technician, Geospatial Technologies, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Network Administration Track, Programmer, Programming Track, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, CIT Fundamentals, Computer Tech Basic, Computer Technician, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Security+ Prep"
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies Specialist, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Social Media Specialist, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Computer Tech Basic, Computer Technician, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Productivity Software Specialist , Programmer, Programming Track, Security+ Prep, Social Media Specialist, Video Game Design, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "Information Security Specialist, Security+ Prep"
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Informatics Programming, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep"
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies Specialist, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Social Media Specialist, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist, Information Security Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Network Administration Track, Productivity Software Specialist, Programmer, Programming Track"
+      }
+    ]
+  },
+  {
+    "program": "Agriculture",
+    "sector": "Advanced Manufacturing",
+    "degree": "Certificate",
+    "description": "Grow your knowledge by studying agriculture. You’ll explore sustainable and organic methods, plant science, field management, equipment maintenance and animal care.",
+    "keywords": "Agriculture, Agriculture Business, Agronomy, Sustainable Agriculture, Sustainable Agriculture",
+    "colleges": [
+      {
+        "name": "Henderson Community College",
+        "url": "https://henderson.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "tracks": "Agriculture, Agriculture Business, Agronomy, Sustainable Agriculture, Sustainable Agriculture"
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "tracks": "Agriculture Business"
+      }
+    ]
+  },
+  {
+    "program": "Administrative Office Technology",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Excel in any office by sharpening your business communication skills. You'll master word processing, email, desktop publishing, graphics, databases and spreadsheets.",
+    "keywords": "Administrative, Administrative Management Track, Administrative Assistant, Basic Business Presentation, Data Entry Operator, Desktop Publishing, Desktop Publishing, Desktop Publishing, Financial Assistant, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Legal Administrative, Legal Office Assistant, Legal Receptionist, Office Assistant, Receptionist",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": "Administrative, Administrative Management Track, Administrative Assistant, Basic Business Presentation, Data Entry Operator, Desktop Publishing, Desktop Publishing, Desktop Publishing, Financial Assistant, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Legal Administrative, Legal Office Assistant, Legal Receptionist, Office Assistant, Receptionist"
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "tracks": "Administrative, Data Entry Operator, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Office Assistant, Receptionist"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Criminal Justice",
+    "sector": "Communications, History, Languages, and Social Sciences",
+    "degree": "Associate",
+    "description": "Serve your community while promoting public safety. Our degree and certificate programs prepare for you for police, corrections, or security careers.",
+    "keywords": "Advanced Law Enforcement, Advanced Technologies in CRJ, Community Reentry Specialist, Computer Forensics, Corrections, Corrections Track, Criminal Behavior, Criminal Justice Core, Criminal Justice Track, Industrial Safety and Security, Law Enforcement, Law Enforcement Track, Security and Loss Prevention, Security and Loss Prevention Track",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Henderson Community College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Human Services",
+    "sector": "Communications, History, Languages, and Social Sciences",
+    "degree": "Associate",
+    "description": "Effect change through meaningful work helping people in need. Our programs train you for careers in social, community, education and mental health services.",
+    "keywords": "Aging Services, Client Service Coordinator, Direct support Work, Direct support Work, Human Services, Psychiatric Mental Health Technician, Recovery Coach",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Medical Information Technology",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Connect your people skills with technical know-how for administrative work in the medical field, including coding, transcription and billing.",
+    "keywords": "Electronic Health Records Specialist, Electronic Medical Records Track, Health Information Technology, Hospital Admissions Specialist, Medical Administrative Assistant, Medical Administrative Track, Medical Coding Track, Medical Office Management Track, Medical Receptionist, Medical Records Specialist, Medical Scribe, Medical Transcription Track, Medical Transcriptionist, Medical Unit Coordinator, Medical Coding, Release of Information Data Specicalist",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Educator Preparation",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Kickstart your journey toward teaching certification with affordable courses designed to transfer to the four-year school of your choice.",
+    "keywords": "Education",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/education-teacher-preparation.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/education-teacher-preparation.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Computer Aided Drafting and Design",
+    "degree": "Associate",
+    "sector": "Computer Science",
+    "description": "Draw your way to a bright future with high-tech CAD training. Our program trains you to make detailed, accurate specifications for use in manufacturing and construction.",
+    "keywords": "Computer Aided Drafting and Design",
+    "colleges": [
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/computer-aided-drafting-design.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Graphic Design",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Design your future by exploring the possibilities of the dynamic digital world. Choose from seven creative degree and certificate options, including graphic design, video game design, or digital video editing.",
+    "keywords": "Digital Video, Graphic Design, Graphic Design, Video Game Design Track, Video Game Design",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/graphic-design-and-library-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Health Science",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Launch your healthcare career with versatile, job-ready training for a variety of medical fields, including aging, recovery, administration and nursing.",
+    "colleges": [
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/health-science-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Healthcare Facilities Leadership",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Take charge as a leader in healthcare facilities operations. This innovative program prepares you for certification in this expanding field.",
+    "keywords": "Healthcare Facilities Leadership, Healthcare Facilities Leadership, Healthcare Facilities Foundation",
+    "colleges": [
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/healthcare-facilities-leadership.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Interdisciplinary Early Childhood Education",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Inspire a love of learning. You'll learn about children's growth from birth through age five and prepare to work in preschools, Head Start programs or childcare centers.",
+    "keywords": "Child Care Assistant, Early Childhood Administrator, Interdisciplinary Early Childhood Education, Interdisciplinary Early Childhood Education, Interdisciplinary Early Childhood Education Technical Studies, Kentucky Child Care Provider, School Age Child Care",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Logistics and Operations Management",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Strategize toward success with a career in logistics. Gain management, communication and digital literacy skills, as well as preparation for industry certification.",
+    "keywords": "International Logistics, Logistics and Operations Management, Logistics Management, Logistics Technology, Logistics Quality Technician, Supply Chain Management",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/supply-chain-management.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/supply-chain-management.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Marine Technology",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Rock the boat with the technical training you need to advance as a professional mariner. Our innovative program is taught online to accommodate your busy schedule.",
+    "keywords": "Marine Culinary, Marine Culinary Management Track, Marine Engineering, Marine Engineering Track, Marine Industry, Marine Logistics Operations Track, Marine Technology Business, Wheelhouse Management Track",
+    "colleges": [
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/marine-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Nurse Aid",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Learn key nursing skills and practice them in a variety of real-world settings.",
+    "keywords": "Medical Nurse Aid",
+    "colleges": [
+      {
+        "name": "Southeast Kentucky Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/nurse-aide.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Paralegal",
+    "sector": "Academics Support",
+    "degree": "Associate",
+    "description": "Assist lawyers, law offices, and corporations collect vital information to defend and prosecute the law.",
+    "keywords": "Civil Litigation, Family Law, Paralegal, Paralegal Technology",
+    "colleges": [
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/paralegal.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Surgical First Assisting",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Support doctors and other medical professionals as an operating room technician. You’ll learn to prepare for and assist during surgeries as part of a healthcare team.",
+    "colleges": [
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/surgical-first-assistant-program.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Unmanned Systems Technology",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Soar to new heights in your career!  Drone technology is one of the fastest growing sectors of the economy.",
+    "keywords": "Advanced Drone Operator Track, Basic Drone Operator, Drone Operator Specialist, First Responder Specialist, First Responder Specialist Track, GIS/Unmanned Systems Specialist, Remote Drone Pilot, Unmanned Systems technician Track, Visual Observer",
+    "colleges": [
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/unmanned-system-technology.aspx",
+        "tracks": ""
+      }
+    ]
+  },
+  {
+    "program": "Visual Communications Multimedia",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Make creative, eye-catching multimedia for today’s fast-paced world. Learn the art of animation, audio/video production, web design and graphic design.",
+    "keywords": "Digital Design, Digital Design Track, Multimedia, Multimedia Track, Video Production, Video Production Track, Web Design, Web Design Track",
+    "colleges": [
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "tracks": ""
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "tracks": ""
+      }
+    ]
+  }
+]

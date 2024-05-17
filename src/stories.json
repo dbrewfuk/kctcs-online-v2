@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Jay Freeman",
+    "id": "john-smith",
+    "career": "",
+    "major": "Criminal Justice",
+    "headline": "Story Headline",
+    "college": "West Kentucky Community and Technical College",
+    "quote": "I was hesitant to start an online learning program at first, but I'm so glad I did! The flexibility of being able to learn at my own pace and on my own time has been amazing. I've been able to balance my studies with my work and family life without any problems..",
+    "year": 2023,
+    "avatar": "./assets/freeman-avatar.jpeg",
+    "vimeo_id": "853712282",
+    "clip": "./assets/freeman-clip.gif",
+    "featured": true
+  },
+  {
+    "name": "Grace Duncan",
+    "id": "grace-duncan",
+    "career": "Nurseing",
+    "major": "Nursing",
+    "keywords": "",
+    "headline": "Story Headline",
+    "college": "Henderson Community College",
+    "quote": "The nursing program at Henderson Community College thoroughly prepared me with the skills and tools necessary to be successful in my new career. Moving forward, I feel confident and competent in pursuing my BSN. I will be transferring to USI, but I will always be grateful for the incredible faculty, classmates and program here at HCC.",
+    "year": 2024,
+    "avatar": "./assets/avatar2.jpeg",
+    "video": "",
+    "clip": ""
+  },
+  {
+    "name": "Aruturo",
+    "id": "sarah-smith",
+    "career": "Social Work",
+    "major": "Social Work",
+    "headline": "Story Headline",
+    "college": "Owensboro Community and Technical College",
+    "quote": "I was given the opportunity to do something different and I took it.",
+    "year": 2024,
+    "avatar": "./assets/avatar3.jpeg",
+    "video": "",
+    "clip": ""
+  },
+  {
+    "name": "Alyssa",
+    "id": "alyssa",
+    "career": "Teacher",
+    "major": "Associate Degree",
+    "headline": "Story Headline",
+    "college": "Southcentral Community and Technical College",
+    "quote": "Don't miss out on opportunities. Grab them when they are there - and don't look back.",
+    "year": 2022,
+    "avatar": "./src/assets/avatar4.jpeg",
+    "video": "",
+    "clip": ""
+  }
+]

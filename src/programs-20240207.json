@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "1",
+    "program": "Business Administration",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Certificate",
+    "description": "Can you picture yourself in an office setting, collaborating with a team to solve business problems? We can help you get there.",
+    "keywords": "Small business, Leadership, Management, Accounting Recordkeeping Specialist, Accounting Track, Accounting, Accounting, Advanced Business Administration, Business Transfer, Data entry Operator, Entrepreneurship, Equine Business Management, Financial Perspectives, General Business, Hospitality Management, Hospitality Management Track, Human Resources Management, Human Resources Management Track, Marketing and Retailing Track, Leadership, Management, Management Track, Office Systems Track, Operations Management, Organizational Leadership, Payroll Accounting Specialist, Pre-Licensing Real Estate, Public Leadership, Real Estate Management Track, Residential Real Estate, Small Business Management, Small Business Management, Supervisory Management, Team Leadership",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting Recordkeeping Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Accounting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Business",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospitality Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospitality Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Human Resources Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Marketing Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Operations Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Pre-Licensing Real Estate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Public Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Real Estate Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Small Business Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Supervisory Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Team Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Hospitality Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting Recordkeeping Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Accounting Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Accounting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Advanced Business Administration",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Business Transfer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Entrepreneurship",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Perspectives",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Business",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospitality Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Human Resources Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Human Resources Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Organizational Leadership",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Payroll Accounting Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Pre-Licensing Real Estate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Real Estate Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Residential Real Estate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Small Business Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Small Business Management",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Supervisory Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Team Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://gateway.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Henderson Community College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/business-administration-systems.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/business-administration-systems.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Advanced Business Administration",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Business Transfer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Perspectives",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Business",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Small Business Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Supervisory Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Team Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/business-administration.aspx",
+        "academic_plans": [
+          {
+            "name": "Accounting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate",
+            "url": "https://catalog.kctcs.edu/programs-of-study/aas/business-administration/accounting-certificate/"
+          },
+          {
+            "name": "Advanced Business Administration",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate",
+            "url": "https://catalog.kctcs.edu/programs-of-study/aas/business-administration/advanced-business-administration-certificate/",
+            "overview": "The Business Administration Program offers a variety of choices for people preparing for new careers or job advancement. You can attend full-time or part-time, with day, evening or online classes. You may even take one class at a time to build your resume while learning business principles that can be immediately used on the job."
+          },
+          {
+            "name": "Business Transfer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Perspectives",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Business",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Small Business Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Supervisory Management",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Team Leadership",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "Associate in Arts (AA)",
+    "sector": "Humanities",
+    "degree": "Associate",
+    "description": "Bachelor's Bound? Our AA degree transfers easily to a university for continued education in areas like Elementary Education, Psychology and Social Work.",
+    "keywords": "Graphic Designer, Art Director",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-arts.aspx"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/associate-in-arts.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "program": "Associate in Science (AS)",
+    "degree": "Academics Support",
+    "sector": "Science",
+    "description": "Bachelor’s Bound? Our AS degree transfers easily to a university for continued education in areas like Biology, Engineering, Pre-Med and Pre-Vet.",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/associate-in-science.aspx"
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/associate-in-science.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "program": "Computer and Information Technologies",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Get the hands on experience you need to design, maintain and use different computing technologies.",
+    "keywords": "Software Engineer, A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "academic_plan": []
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Geospatial Technologies, Informatics Advanced, Informatics Generalist, Informatics Programming Informatics Track, Information Security Specialist, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Technologies, Network Technologies Specialist, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Video Game Design, Video Game Design, Web Server Administrator, Web Programmer",
+        "academic_plans": [
+          {
+            "name": "A+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Application Support Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "AWS Cloud Architecting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Business Software and Support Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "CIT Fundamentals",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cloud Computing Technologies",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Computer Tech Basic",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Geospatial Technologies",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Informatics Advanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Informatics Generalist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Informatics Programming",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Informatics Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Internet Technologies Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Microsoft Enterprise Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Microsoft Network Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Mobile Apps Developer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Net+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Technologies",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Network Techcnolgies Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Productivity Software Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programming Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Video Game Design",
+            "credential_type": "Associates in Applied Science",
+            "credentials_awarded": "Associates in Applied Science"
+          },
+          {
+            "name": "Video Game Design",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Server Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "A+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Application Support Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "CIT Fundamentals",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Tech Basic",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Microsoft Network Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Net+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Administration Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web ProgrammerA+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer",
+        "academic_plans": [
+          {
+            "name": "A+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Application Support Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "AWS Cloud Architecting",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "CIT Fundamentals",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cloud Computing Technologies",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Computer Tech Basic",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Internet Technologies Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Microsoft Enterprise Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Microsoft Network Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Mobile Apps Developer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Net+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Administration Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Network Technologies",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Network Techcnolgies Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programming Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Security+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Server Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Forensics",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, CIT Fundamentals, Computer Tech Basic, Net+ Prep, Programmer, Security+ Prep, Web Programmer"
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, CIT Fundamentals, Computer Tech Basic, Net+ Prep, Programmer, Security+ Prep, Web Programmer"
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Productivity Software Specialist , Programmer, Programming Track, Security+ Prep, Social Media Specialist, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "academic_plan": [
+          {
+            "name": "Application Support Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Business Software and Support Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Geospatial Technologies",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Internet Technologies Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Microsoft Enterprise Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Microsoft Network Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Administration Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programming Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Web Server Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, CIT Fundamentals, Computer Tech Basic, Computer Technician, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Security+ Prep"
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, Computer Tech Basic, Computer Technician, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies Specialist, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep, Social Media Specialist, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "Application Support Technician, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Computer Tech Basic, Computer Technician, Information Security Specialist , Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Mobile Apps Developer, Net+ Prep, Network Administration Track, Network Technologies, Network Technologies Specialist, Productivity Software Specialist , Programmer, Programming Track, Security+ Prep, Social Media Specialist, Video Game Design, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "Information Security Specialist, Security+ Prep"
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, Application Support Technician, AWS Cloud Architecting, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Informatics Programming, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Programmer, Programming Track, Security+ Prep, Web Server Administrator, Web Programmer"
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist, Information Security Track, Internet Technologies Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Net+ Prep, Network Administration Track, Network Technologies, Productivity Software Specialist, Programmer, Programming Track, Security+ Prep",
+        "academic_plans": [
+          {
+            "name": "A+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "CIT Fundamentals",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Tech Basic",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Digital Forensics Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Internet Technologies Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Microsoft Network Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Administration Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "academic_plan": [
+          {
+            "name": "A+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Application Support Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Business Software and Support Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Cisco Networking Associate",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Cisco Networking Enhanced",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "CIT Fundamentals",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Tech Basic",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Computer Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Digital Forensics Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "General Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Information Security Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Information Security Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Internet Technologies Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Microsoft Enterprise Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Mobile Apps Developer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Net+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Network Administration Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Network Technologies Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Productivity Software Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Programming Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security+ Prep",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Social Media Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Server Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Web Programmer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/computer-information-technology.aspx",
+        "tracks": "A+ Prep, AWS Cloud Architecting, Business Software and Support Track, Cisco Networking Associate, Cisco  Networking Enhanced, CIT Fundamentals, Cloud Computing Technologies, Computer Tech Basic, Computer Technician, Digital Forensics Specialist, General Track, Information Security Specialist, Information Security Track, Microsoft Enterprise Administrator, Microsoft Network Administrator, Network Administration Track, Productivity Software Specialist, Programmer, Programming Track"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "program": "Agriculture",
+    "sector": "Advanced Manufacturing",
+    "degree": "Certificate",
+    "description": "Grow your knowledge by studying agriculture. You’ll explore sustainable and organic methods, plant science, field management, equipment maintenance and animal care.",
+    "keywords": "Agriculture, Agriculture Business, Agronomy, Sustainable Agriculture, Sustainable Agriculture",
+    "colleges": [
+      {
+        "name": "Henderson Community College",
+        "url": "https://henderson.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "academic_plan": [
+          {
+            "name": "Agriculture",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Agriculture Business",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Agriculture Education",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Agronomy",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Sustainable Agriculture",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          }
+        ]
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "tracks": "Agriculture Business"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "program": "Administrative Office Technology",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Excel in any office by sharpening your business communication skills. You'll master word processing, email, desktop publishing, graphics, databases and spreadsheets.",
+    "keywords": "Administrative, Administrative Management Track, Administrative Assistant, Basic Business Presentation, Data Entry Operator, Desktop Publishing, Desktop Publishing, Desktop Publishing, Financial Assistant, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Legal Administrative, Legal Office Assistant, Legal Receptionist, Office Assistant, Receptionist",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "tracks": "Administrative, Administrative Management Track, Administrative Assistant, Basic Business Presentation, Data Entry Operator, Desktop Publishing, Desktop Publishing, Desktop Publishing, Financial Assistant, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Legal Administrative, Legal Office Assistant, Legal Receptionist, Office Assistant, Receptionist"
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/agriculture.aspx",
+        "tracks": "Administrative, Data Entry Operator, Financial Assistant, Financial Assistant Clerk, Financial Assistant Trainee, Financial Record Keeper, Integrated Office Skills, Office Assistant, Receptionist",
+        "academic_plans": [
+          {
+            "name": "Administrative",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Data Entry Operator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Financial Assistant Clerk",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Assistant Trainee",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Record Keeper",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Integrated Office Skills",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Office Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Administrative Management",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Administrative Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Data Entry Operator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Integrated Office Skills",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Office Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Administrative",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Administrative Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Data Entry Operator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Assistant Clerk",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Financial Assistant Trainee",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Integrated Office Skills",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/administrative-office-technology.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "program": "Criminal Justice",
+    "sector": "Communications, History, Languages, and Social Sciences",
+    "degree": "Associate",
+    "description": "Serve your community while promoting public safety. Our degree and certificate programs prepare for you for police, corrections, or security careers.",
+    "keywords": "Advanced Law Enforcement, Advanced Technologies in CRJ, Community Reentry Specialist, Computer Forensics, Corrections, Corrections Track, Criminal Behavior, Criminal Justice Core, Criminal Justice Track, Industrial Safety and Security, Law Enforcement, Law Enforcement Track, Security and Loss Prevention, Security and Loss Prevention Track",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": [
+          {
+            "name": "Computer Forensics",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Criminal Justice Core",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Criminal Justice Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Law Enforcement",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Law Enforcement Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security and Loss Prevention",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Security and Loss Prevention Track",
+            "credential_type": "Associate in Applied Science",
+            "credentials_awarded": "Associate in Applied Science"
+          }
+        ]
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": [
+          {
+            "name": "Computer Forensics",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Criminal Justice Core",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Criminal Justice Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Law Enforcement",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Law Enforcement Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security and Loss Prevention",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Security and Loss Prevention Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": [
+          {
+            "name": "Computer Forensics",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Corrections Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Criminal Justice Core",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Criminal Justice Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Law Enforcement",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Law Enforcement Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          },
+          {
+            "name": "Security and Loss Prevention",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Security and Loss Prevention Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Degree"
+          }
+        ]
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Henderson Community College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": [
+          {
+            "name": "Advanced Technologies in CRJ",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Criminal Behavior",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Industrial Safety and Security",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Law Enforcement",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Law Enforcement Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Security and Loss Prevention",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Security and Loss Prevention Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          }
+        ]
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/criminal-justice.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "program": "Human Services",
+    "sector": "Communications, History, Languages, and Social Sciences",
+    "degree": "Associate",
+    "description": "Effect change through meaningful work helping people in need. Our programs train you for careers in social, community, education and mental health services.",
+    "keywords": "Aging Services, Client Service Coordinator, Direct support Work, Direct support Work, Human Services, Psychiatric Mental Health Technician, Recovery Coach",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": [
+          {
+            "name": "Aging Services",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Client Service Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Direct Support Work",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Psychiatric Mental Health Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Recovery Coach",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": [
+          {
+            "name": "Aging Services",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Client Service Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Direct Support Work",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Human Services",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Psychiatric Mental Health Technician",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Recovery Coach",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/human-services.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "program": "Medical Information Technology",
+    "sector": "Business, Computer, and Information Systems",
+    "degree": "Associate",
+    "description": "Connect your people skills with technical know-how for administrative work in the medical field, including coding, transcription and billing.",
+    "keywords": "Electronic Health Records Specialist, Electronic Medical Records Track, Health Information Technology, Hospital Admissions Specialist, Medical Administrative Assistant, Medical Administrative Track, Medical Coding Track, Medical Office Management Track, Medical Receptionist, Medical Records Specialist, Medical Scribe, Medical Transcription Track, Medical Transcriptionist, Medical Unit Coordinator, Medical Coding, Release of Information Data Specicalist",
+    "colleges": [
+      {
+        "name": "Ashland Community and Technical College",
+        "url": "https://ashland.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Electronic Health Records Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospital Admissions Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Administrative Assistant",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Administrative Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Coding Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Office Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Records Specialist",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Unit Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Coding",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Electronic Health Records Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Electronic Medical Records Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Hospital Admissions Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Administrative Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Administrative Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Coding Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Office Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Scribe",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Transcription Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Transcriptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Unit Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Coding",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "https://elizabethtown.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Electronic Health Records Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Electronic Medical Records Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Health Information Technology",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Hospital Admissions Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Administrative Assistant",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Administrative Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Coding Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Office Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Records Specialist",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Scribe",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Transcription Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Transcriptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Unit Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Coding",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southcentral Kentucky Community and Technical College",
+        "url": "https://southcentral.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Electronic Health Records Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospital Admissions Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Administrative Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Administrative Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Coding Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Office Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Scribe",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Transcriptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Unit Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Coding",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Electronic Health Records Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Hospital Admissions Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Administrative Assistant",
+            "credential_type": "Diploma",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Medical Administrative Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Coding Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Office Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Medical Receptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Scribe",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Transcriptionist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Unit Coordinator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Medical Coding",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/medical-information-technology.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "program": "Educator Preparation",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Kickstart your journey toward teaching certification with affordable courses designed to transfer to the four-year school of your choice.",
+    "keywords": "Education",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/education-teacher-preparation.aspx",
+        "academic_plans": [
+          {
+            "name": "Education",
+            "credential_type": "Associates in Applied Science",
+            "credentials_awarded": "Associates in Applied Science"
+          }
+        ]
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/education-teacher-preparation.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "program": "Computer Aided Drafting and Design",
+    "degree": "Associate",
+    "sector": "Computer Science",
+    "description": "Draw your way to a bright future with high-tech CAD training. Our program trains you to make detailed, accurate specifications for use in manufacturing and construction.",
+    "keywords": "Computer Aided Drafting and Design",
+    "colleges": [
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/computer-aided-drafting-design.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "program": "Graphic Design",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Design your future by exploring the possibilities of the dynamic digital world. Choose from seven creative degree and certificate options, including graphic design, video game design, or digital video editing.",
+    "keywords": "Digital Video, Graphic Design, Graphic Design, Video Game Design Track, Video Game Design",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/graphic-design-and-library-technology.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "program": "Health Science",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Launch your healthcare career with versatile, job-ready training for a variety of medical fields, including aging, recovery, administration and nursing.",
+    "colleges": [
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/health-science-technology.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "program": "Healthcare Facilities Leadership",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Take charge as a leader in healthcare facilities operations. This innovative program prepares you for certification in this expanding field.",
+    "keywords": "Healthcare Facilities Leadership, Healthcare Facilities Leadership, Healthcare Facilities Foundation",
+    "colleges": [
+      {
+        "name": "Owensboro Community and Technical College",
+        "url": "https://owensboro.kctcs.edu/education-training/program-finder/healthcare-facilities-leadership.aspx",
+        "academic_plans": [
+          {
+            "name": "Healthcare Facilities Leadership",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Healthcare Facilities Leadership",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Healthcare Facilities Foundation",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "program": "Interdisciplinary Early Childhood Education",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Inspire a love of learning. You'll learn about children's growth from birth through age five and prepare to work in preschools, Head Start programs or childcare centers.",
+    "keywords": "Child Care Assistant, Early Childhood Administrator, Interdisciplinary Early Childhood Education, Interdisciplinary Early Childhood Education, Interdisciplinary Early Childhood Education Technical Studies, Kentucky Child Care Provider, School Age Child Care",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "",
+        "academic_plans": [
+          {
+            "name": "Kentucky Child Care Provider",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Jefferson Community and Technical College",
+        "url": "https://jefferson.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Hopkinsville Community College",
+        "url": "https://hopkinsville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Maysville Community and Technical College",
+        "url": "https://maysville.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": [
+          {
+            "name": "Child Care Assistant",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Early Childhood Administrator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Interdisciplinary Early Childhood Education",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Interdisciplinary Early Childhood Education",
+            "credential_type": "Degree",
+            "credentials_awarded": "Diploma"
+          },
+          {
+            "name": "Interdisciplinary Early Childhood Education Technical Studies",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Kentucky Child Care Provider",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Southeast Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/interdisciplinary-early-childhood-education.aspx",
+        "academic_plans": [
+          {
+            "name": "Kentucky Child Care Provider",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "program": "Logistics and Operations Management",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Strategize toward success with a career in logistics. Gain management, communication and digital literacy skills, as well as preparation for industry certification.",
+    "keywords": "International Logistics, Logistics and Operations Management, Logistics Management, Logistics Technology, Logistics Quality Technician, Supply Chain Management",
+    "colleges": [
+      {
+        "name": "Bluegrass Community and Technical College",
+        "url": "https://bluegrass.kctcs.edu/education-training/program-finder/supply-chain-management.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/supply-chain-management.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "program": "Marine Technology",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Rock the boat with the technical training you need to advance as a professional mariner. Our innovative program is taught online to accommodate your busy schedule.",
+    "keywords": "Marine Culinary, Marine Culinary Management Track, Marine Engineering, Marine Engineering Track, Marine Industry, Marine Logistics Operations Track, Marine Technology Business, Wheelhouse Management Track",
+    "colleges": [
+      {
+        "name": "West Kentucky Community and Technical College",
+        "url": "https://westkentucky.kctcs.edu/education-training/program-finder/marine-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Marine Culinary",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Marine Culinary Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Marine Engineering",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Marine Engineering Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Marine Industry",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Marine Logistics Operations Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Marine Technology Business",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Wheelhouse Management Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "program": "Nurse Aid",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Learn key nursing skills and practice them in a variety of real-world settings.",
+    "keywords": "Medical Nurse Aid",
+    "colleges": [
+      {
+        "name": "Southeast Kentucky Community and Technical College",
+        "url": "https://southeast.kctcs.edu/education-training/program-finder/nurse-aide.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "program": "Paralegal",
+    "sector": "Academics Support",
+    "degree": "Associate",
+    "description": "Assist lawyers, law offices, and corporations collect vital information to defend and prosecute the law.",
+    "keywords": "Civil Litigation, Family Law, Paralegal, Paralegal Technology",
+    "colleges": [
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/paralegal.aspx",
+        "academic_plans": [
+          {
+            "name": "Civil Litigation",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Family Law",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Paralegal",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Paralegal Technology",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "program": "Surgical First Assisting",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Support doctors and other medical professionals as an operating room technician. You’ll learn to prepare for and assist during surgeries as part of a healthcare team.",
+    "colleges": [
+      {
+        "name": "Madisonville Community College",
+        "url": "https://madisonville.kctcs.edu/education-training/program-finder/surgical-first-assistant-program.aspx",
+        "academic_plans": []
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "program": "Unmanned Systems Technology",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Soar to new heights in your career!  Drone technology is one of the fastest growing sectors of the economy.",
+    "keywords": "Advanced Drone Operator Track, Basic Drone Operator, Drone Operator Specialist, First Responder Specialist, First Responder Specialist Track, GIS/Unmanned Systems Specialist, Remote Drone Pilot, Unmanned Systems technician Track, Visual Observer",
+    "colleges": [
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/unmanned-system-technology.aspx",
+        "academic_plans": [
+          {
+            "name": "Advanced Drone Operator Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Basic Drone Operator",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Drone Operator Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "First Responder Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "First Responder Specialist Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "GIS/Unmanned Systems Specialist",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Remote Drone Pilot",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Unmanned Systems technician Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Visual Observer",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "program": "Visual Communications Multimedia",
+    "sector": "Art",
+    "degree": "Associate",
+    "description": "Make creative, eye-catching multimedia for today’s fast-paced world. Learn the art of animation, audio/video production, web design and graphic design.",
+    "keywords": "Digital Design, Digital Design Track, Multimedia, Multimedia Track, Video Production, Video Production Track, Web Design, Web Design Track",
+    "colleges": [
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "https://bigsandy.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "academic_plans": [
+          {
+            "name": "Web Design",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          }
+        ]
+      },
+      {
+        "name": "Hazard Community and Technical College",
+        "url": "https://hazard.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "academic_plans": []
+      },
+      {
+        "name": "Somerset Community College",
+        "url": "https://somerset.kctcs.edu/education-training/program-finder/visual-communications.aspx",
+        "academic_plans": [
+          {
+            "name": "Digital Design",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate"
+          },
+          {
+            "name": "Digital Design Track",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Applied Science"
+          },
+          {
+            "name": "Web Design",
+            "credential_type": "Certificate",
+            "credentials_awarded": "Certificate",
+            "cc_url": "https://catalog.kctcs.edu/programs-of-study/aas/visual-communication-multimedia/web-design-certificate/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "program": "Transfer Curricula",
+    "sector": "Transfer Curricula",
+    "description": "",
+    "keywords": "",
+    "colleges": [
+      {
+        "name": "Big Sandy Community and Technical College",
+        "url": "",
+        "academic_plans": [
+          {
+            "name": "Associate in Arts Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Arts"
+          },
+          {
+            "name": "Associate in Science Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Science"
+          }
+        ]
+      },
+      {
+        "name": "Gateway Community and Technical College",
+        "url": "",
+        "academic_plans": [
+          {
+            "name": "Associate in Arts Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Arts"
+          },
+          {
+            "name": "Associate in Science Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Science"
+          }
+        ]
+      },
+      {
+        "name": "Elizabethtown Community and Technical College",
+        "url": "",
+        "academic_plans": [
+          {
+            "name": "Associate in Arts Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Arts"
+          },
+          {
+            "name": "Associate in Science Degree",
+            "credential_type": "Degree",
+            "credentials_awarded": "Associate in Science"
+          }
+        ]
+      }
+    ]
+  }
+]

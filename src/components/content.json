@@ -1,0 +1,3644 @@
+{
+  "collegeContent": {
+    "Ashland": {
+      "website": "https://ashland.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://ashland.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://ashland.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Forms",
+          "url": "https://ashland.kctcs.edu/admissions/meet-your-admissions-team/admissions-forms.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://ashland.kctcs.edu/admissions/request-information/"
+        },
+        {
+          "title": "Application Information",
+          "url": "https://ashland.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://ashland.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://ashland.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://ashland.kctcs.eduhttps://ashland-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-ashland"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://ashland.kctcs.edu/admissions/meet-your-admissions-team/index.aspx"
+        },
+        {
+          "title": "Withdraw/Drop Request",
+          "url": "https://ashland.kctcs.edu/current-students/academic-resources/withdraw.aspx"
+        },
+        {
+          "title": "Graduation Information",
+          "url": "https://ashland.kctcs.edu/current-students/academic-resources/graduation-information/index.aspx"
+        },
+        {
+          "title": "Request a Transcript",
+          "url": "https://ashland.kctcs.edu/admissions/information-for/transcripts/index.aspx"
+        },
+        {
+          "title": "Online New Student Orientation",
+          "url": "https://ashland.kctcs.eduhttps://rise.articulate.com/share/oHjQbEKcPRA1OTwuBVHJIvRk_a-63hu5#/"
+        },
+        {
+          "source_page": "https://ashland.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://ashland.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://ashland.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://ashland.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://ashland.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://ashland.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/loans/index.aspx"
+        },
+        {
+          "title": "State Grants",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/state-grants.aspx"
+        },
+        {
+          "title": "Federal Grants",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/federal-grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://ashland.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Consumer Information",
+          "url": "https://ashland.kctcs.edu/about/consumer_info/index.aspx"
+        },
+        {
+          "title": "Applying for Financial Aid",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/apply-for-aid.aspx"
+        },
+        {
+          "title": "General Financial Aid Information",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/aid-info.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://ashland.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Summer Financial Aid",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/summer-financial-aid.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://ashland.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Return To Title IV (R2T4)",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/r2t4.aspx"
+        },
+        {
+          "title": "Edamerica",
+          "url": "https://ashland.kctcs.edu/affording-college/edamerica.aspx"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://ashland.kctcs.edu/affording-college/contact.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://ashland.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Special and Unusual Circumstances",
+          "url": "https://ashland.kctcs.edu/affording-college/paying-for-college/circumstances.aspx"
+        },
+        {
+          "source_page": "https://ashland.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Cultural Diversity",
+          "url": "https://ashland.kctcs.edu/about/mission-vision/cultural-diversity.aspx"
+        },
+        {
+          "title": "Disability Services",
+          "url": "https://ashland.kctcs.edu/about/student-life/disability-services/index.aspx"
+        },
+        {
+          "title": "Student Support Services",
+          "url": "https://ashland.kctcs.edu/current-students/student-services/sss/index.aspx"
+        },
+        {
+          "title": "Security and Parking",
+          "url": "https://ashland.kctcs.edu/about/student-life/parking-transportation/index.aspx"
+        },
+        {
+          "title": "Career Center",
+          "url": "https://ashland.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "Housing and Dining",
+          "url": "https://ashland.kctcs.edu/about/student-life/housing-dining.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://ashland.kctcs.edu/current-students/student-services/ready-to-work/index.aspx"
+        },
+        {
+          "title": "Career Center",
+          "url": "https://ashland.kctcs.edu/about/student-life/career-services/"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://ashland.kctcs.edu/about/mission-vision/cultural-diversity.aspx"
+        },
+        {
+          "title": "Disability Services",
+          "url": "https://ashland.kctcs.edu/about/student-life/disability-services/"
+        },
+        {
+          "title": "Housing and Dining",
+          "url": "https://ashland.kctcs.edu/about/student-life/housing-dining.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://ashland.kctcs.edu/current-students/student-services/ready-to-work/"
+        },
+        {
+          "title": "Security and Parking",
+          "url": "https://ashland.kctcs.edu/about/student-life/parking-transportation/"
+        },
+        {
+          "title": "Student Support Services",
+          "url": "https://ashland.kctcs.edu/current-students/student-services/sss/index.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://ashland.kctcs.edu/current-students/academic-resources/index.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://ashland.kctcs.edu/current-students/therapy-assistance-online.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://ashland.kctcs.edu/about/student-life/activities-organizations/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://ashland.kctcs.edu/about/student-life/pantry.aspx"
+        },
+        {
+          "title": "Clothing",
+          "url": "https://ashland.kctcs.edumailto:as_careerservices@kctcs.edu?subject=Career Closet Request"
+        },
+        {
+          "title": "Housing",
+          "url": "https://ashland.kctcs.eduhttps://familyscholarhouse.org/"
+        },
+        {
+          "title": "Legal Resources",
+          "url": "https://ashland.kctcs.eduhttps://kctcs.sharepoint.com/sites/StudentLegalResources?e=1%3Aec90b2ea8d314ce8bb91cad0f20f6b4d"
+        },
+        {
+          "title": "MyKY.info",
+          "url": "https://ashland.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "source_page": "https://ashland.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Big Sandy": {
+      "website": "https://bigsandy.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://bigsandy.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://bigsandy.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Forms",
+          "url": "https://bigsandy.kctcs.edu/admissions/admissions-forms/index.aspx"
+        },
+        {
+          "title": "Student Orientation",
+          "url": "https://bigsandy.kctcs.edu/admissions/student-orientation.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://bigsandy.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://bigsandy.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://bigsandy.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Proctored Exams",
+          "url": "https://bigsandy.kctcs.edu/admissions/placement-testing-assessment/exam-proctoring.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://bigsandy.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://bigsandy.kctcs.eduhttps://bigsandy-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-bigsandy"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://bigsandy.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "source_page": "https://bigsandy.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://bigsandy.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://bigsandy.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://bigsandy.kctcs.edu/affording-college/tuition-costs/tuition-fees.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://bigsandy.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://bigsandy.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://bigsandy.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://bigsandy.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://bigsandy.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://bigsandy.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://bigsandy.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://bigsandy.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://bigsandy.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://bigsandy.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://bigsandy.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://bigsandy.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Student ID & Discounts",
+          "url": "https://bigsandy.kctcs.edu/current-students/student-services/student-id-discounts.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://bigsandy.kctcs.edu/current-students/student-services/ready-to-work.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/accessibility-services/"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/cultural-diversity.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/campus-safety/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/title-ix/"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/career-services.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://bigsandy.kctcs.edu/student-resources/index.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://bigsandy.kctcs.edu/student-resources/mental-health.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://bigsandy.kctcs.eduhttps://southeast.kctcs.edu/current-students/chit-chat/healthcare.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://bigsandy.kctcs.edu/current-students/student-services/Mental-Health-Awareness/addiction-recovery-resources.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://bigsandy.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "source_page": "https://bigsandy.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Bluegrass": {
+      "website": "https://bluegrass.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://bluegrass.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://bluegrass.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Guidelines",
+          "url": "https://bluegrass.kctcs.edu/admissions/admissions-guidelines.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://bluegrass.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/COMMUNITY_ACCESS.K_OLA_LANDING_FL.GBL?&Campus=BLC"
+        },
+        {
+          "title": "Meet Your Admissions Team",
+          "url": "https://bluegrass.kctcs.edu/admissions/meet-your-admissions-team/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://bluegrass.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Information for Guidance Counselors and Career Coaches",
+          "url": "https://bluegrass.kctcs.edu/admissions/guidance-counselors.aspx"
+        },
+        {
+          "title": "Selective Admissions",
+          "url": "https://bluegrass.kctcs.edu/admissions/selective-admissions/index.aspx"
+        },
+        {
+          "title": "Kentucky Residency",
+          "url": "https://bluegrass.kctcs.edu/admissions/residency.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://bluegrass.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://bluegrass.kctcs.eduhttps://bluegrass-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-bluegrass"
+        },
+        {
+          "source_page": "https://bluegrass.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://bluegrass.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://bluegrass.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Applying for Aid",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/applying-for-aid.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://bluegrass.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "How to Pay My Bill",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/methods-of-payment.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://bluegrass.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://bluegrass.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/consumer-information.aspx"
+        },
+        {
+          "title": "Important Financial Aid Dates",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/important-financial-aid-dates.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://bluegrass.kctcs.edu/affording-college/financial-aid-forms.aspx"
+        },
+        {
+          "title": "Federal Work-Study",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/work-study/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://bluegrass.kctcs.edu/affording-college/contact-financial-aid.aspx"
+        },
+        {
+          "title": "Employer Tuition Assistance",
+          "url": "https://bluegrass.kctcs.edu/affording-college/employer-tuition-assistance/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress",
+          "url": "https://bluegrass.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://bluegrass.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://bluegrass.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Academic Resources",
+          "url": "https://bluegrass.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://bluegrass.kctcs.edu/student-resources/mental-health-resources.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://bluegrass.kctcs.edu/about/student-life/activities-organizations/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://bluegrass.kctcs.eduhttps://southeast.kctcs.edu/current-students/chit-chat/nutrition.aspx"
+        },
+        {
+          "title": "Community Resources",
+          "url": "https://bluegrass.kctcs.edu/community/community-resources.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://bluegrass.kctcs.edu/current-students/student-resources/ccampis.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://bluegrass.kctcs.edu/student-resources/housing.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://bluegrass.kctcs.edu/about/student-life/parking-transportation.aspx"
+        },
+        {
+          "source_page": "https://bluegrass.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Elizabethtown": {
+      "website": "https://elizabethtown.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Request Information",
+          "url": "https://elizabethtown.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://elizabethtown.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Assessment Center",
+          "url": "https://elizabethtown.kctcs.edu/admissions/assessment-center/index.aspx"
+        },
+        {
+          "title": "Educational Opportunity Center",
+          "url": "https://elizabethtown.kctcs.edu/admissions/educational-opportunity-center/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://elizabethtown.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "New Student Orientation and Convocation",
+          "url": "https://elizabethtown.kctcs.edu/current-students/academic-resources/student-orientation.aspx"
+        },
+        {
+          "title": "Kentucky Residency",
+          "url": "https://elizabethtown.kctcs.edu/admissions/residency-information/index.aspx"
+        },
+        {
+          "title": "Admission Policy",
+          "url": "https://elizabethtown.kctcs.edu/admissions/admission-policy.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://elizabethtown.kctcs.eduhttps://elizabethtown-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-elizabethtown"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://elizabethtown.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "title": "Military Students",
+          "url": "https://elizabethtown.kctcs.edu/education-training/military-veterans/military/index.aspx"
+        },
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://elizabethtown.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Senior Days",
+          "url": "https://elizabethtown.kctcs.edu/admissions/seniordays.aspx"
+        },
+        {
+          "title": "Express Enrollment",
+          "url": "https://elizabethtown.kctcs.edu/admissions/express-enrollment.aspx"
+        },
+        {
+          "title": "ECTC Fresh Start Program",
+          "url": "https://elizabethtown.kctcs.edu/current-students/offices-departments/business-affairs/fresh-start-program.aspx"
+        },
+        {
+          "title": "Adult Students",
+          "url": "https://elizabethtown.kctcs.edu/admissions/adult-students.aspx"
+        },
+        {
+          "title": "Transcript Waiver",
+          "url": "https://elizabethtown.kctcs.edu/admissions/transcript-waiver-request-form.aspx"
+        },
+        {
+          "title": "Setting Up Your User Account",
+          "url": "https://elizabethtown.kctcs.edu/admissions/setting-up-your-user-account.aspx"
+        },
+        {
+          "source_page": "https://elizabethtown.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://elizabethtown.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Bookstore Information",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-resources/bookstore.aspx"
+        },
+        {
+          "title": "How to Apply",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/how-to-apply.aspx"
+        },
+        {
+          "title": "Financial Consequences of Withdrawal",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/financial-consequences-of-withdrawal.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Federal Work-Study",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Professional Judgment Options",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/professional-judgment-options.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/forms/index.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Financial Aid Resources",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/financial-aid-resources.aspx"
+        },
+        {
+          "title": "Student Emergency Fund",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/student-emergency-fund/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Amazon Career Choice",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/amazon-career-choice.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://elizabethtown.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Terms to Know",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/terms-to-know.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Contact Us!",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/financial-aid-contact-information.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right-To-Know",
+          "url": "https://elizabethtown.kctcs.edu/about/college-at-a-glance/consumer-information-student-right-to-know/index.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://elizabethtown.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "ECTC Fresh Start Program",
+          "url": "https://elizabethtown.kctcs.edu/current-students/offices-departments/business-affairs/fresh-start-program.aspx"
+        },
+        {
+          "source_page": "https://elizabethtown.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Paying for College",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/ready-to-work.aspx"
+        },
+        {
+          "title": "Veterans Affairs",
+          "url": "https://elizabethtown.kctcs.edu/education-training/military-veterans/veterans-affairs/"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://elizabethtown.kctcs.edu/affording-college/paying-for-college/scholarships/"
+        },
+        {
+          "title": "Workforce Solutions",
+          "url": "https://elizabethtown.kctcs.edu/workforce-solutions/"
+        },
+        {
+          "title": "Assessment Center",
+          "url": "https://elizabethtown.kctcs.edu/admissions/assessment-center/"
+        },
+        {
+          "title": "Bookstore",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-resources/bookstore.aspx"
+        },
+        {
+          "title": "Student Success Hub",
+          "url": "https://elizabethtown.kctcs.edu/current-students/academic-resources/student-success-hub/"
+        },
+        {
+          "title": "Library",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-resources/library/"
+        },
+        {
+          "title": "Disability Services",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/accessibility-services/"
+        },
+        {
+          "title": "Student Support Services",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/TRIO-student-support-services.aspx"
+        },
+        {
+          "title": "Military and Veteran Services",
+          "url": "https://elizabethtown.kctcs.edu/education-training/military-veterans/military-veteran-services/"
+        },
+        {
+          "title": "Computer Lab",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/computer-lab.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/career-services/"
+        },
+        {
+          "title": "First Generation",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/first-generation/"
+        },
+        {
+          "title": "Computer Lab",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/computer-lab.aspx"
+        },
+        {
+          "title": "First Generation",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/first-generation/index.aspx"
+        },
+        {
+          "title": "The Lunch Box",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/the-lunch-box.aspx"
+        },
+        {
+          "title": "TRIO Student Support Services",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/TRIO-student-support-services.aspx"
+        },
+        {
+          "title": "Military & Veterans",
+          "url": "https://elizabethtown.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/ready-to-work.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/accessibility-services/index.aspx"
+        },
+        {
+          "title": "Military & Veterans",
+          "url": "https://elizabethtown.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/cultural-diversity/index.aspx"
+        },
+        {
+          "title": "Campus Safety and Security",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/campus-safety-security/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/campus-safety-security/title-ix/index.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://elizabethtown.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-resources/mental-health-counseling/index.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/activities-organizations/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-services/the-lunch-box.aspx"
+        },
+        {
+          "title": "Community Resources",
+          "url": "https://elizabethtown.kctcs.edu/current-students/student-resources/family-scholar-house/index.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://elizabethtown.kctcs.edu/about/student-life/parking-transportation.aspx"
+        },
+        {
+          "source_page": "https://elizabethtown.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Gateway": {
+      "website": "https://gateway.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Admissions Information",
+          "url": "https://gateway.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Forms",
+          "url": "https://gateway.kctcs.edu/admissions/start-your-application/forms.aspx"
+        },
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://gateway.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Sessions",
+          "url": "https://gateway.kctcs.edu/admissions/admission-sessions.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://gateway.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://gateway.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://gateway.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Placement Testing",
+          "url": "https://gateway.kctcs.edu/admissions/placement-testing/index.aspx"
+        },
+        {
+          "title": "User Account Center",
+          "url": "https://gateway.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/K_IDA.K_IDA_UAC.GBL?&Campus=gtw"
+        },
+        {
+          "title": "Advising",
+          "url": "https://gateway.kctcs.edu/current-students/academic-resources/advising/index.aspx"
+        },
+        {
+          "title": "Admissions & Records Office",
+          "url": "https://gateway.kctcs.edu/current-students/academic-resources/registrar/index.aspx"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://gateway.kctcs.edu/admissions/request-information/contact-admissions.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://gateway.kctcs.eduhttps://gateway-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-gateway"
+        },
+        {
+          "title": "Summer Career Camps",
+          "url": "https://gateway.kctcs.edu/admissions/career-camps.aspx"
+        },
+        {
+          "source_page": "https://gateway.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://gateway.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://gateway.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://gateway.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Financial Aid",
+          "url": "https://gateway.kctcs.edu/affording-college/financial-aid/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://gateway.kctcs.edu/affording-college/financial-aid/payments.aspx"
+        },
+        {
+          "title": "Refunds",
+          "url": "https://gateway.kctcs.edu/affording-college/financial-aid/refunds.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://gateway.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://gateway.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://gateway.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Working while in college",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/work-study/index.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://gateway.kctcs.edu/education-training/apprenticeship/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Apprenticeship Programs",
+          "url": "https://gateway.kctcs.edu/education-training/apprenticeship/index.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://gateway.kctcs.edu/affording-college/financial-aid/financial-aid-forms.aspx"
+        },
+        {
+          "title": "Contact Financial Aid",
+          "url": "https://gateway.kctcs.edu/affording-college/financial-aid/contact-financial-aid.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://gateway.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://gateway.kctcs.eduhttps://kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "FAFSA Simplification",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/fafsa-simplification.aspx"
+        },
+        {
+          "title": "Important Financial Aid Dates",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/important-financial-aid-dates.aspx"
+        },
+        {
+          "title": "Loan Repayment Resources and Default Prevention",
+          "url": "https://gateway.kctcs.edu/affording-college/paying-for-college/loan-default-rate.aspx"
+        },
+        {
+          "source_page": "https://gateway.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://gateway.kctcs.edu#"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://gateway.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Counseling Services",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/counseling/index.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/all-resources/healthcare.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/all-resources/mental-health-and-substance-abuse.aspx"
+        },
+        {
+          "title": "Student Organizations",
+          "url": "https://gateway.kctcs.edu/current-students/student-life/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/all-resources/food.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/childcare-interest.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://gateway.kctcs.edu/student-resources/housing.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/all-resources/transportation.aspx"
+        },
+        {
+          "title": "More Resources",
+          "url": "https://gateway.kctcs.edu/current-students/student-resources/all-resources/index.aspx"
+        },
+        {
+          "source_page": "https://gateway.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Hazard": {
+      "website": "https://hazard.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://hazard.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://hazard.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://hazard.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://hazard.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://hazard.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://hazard.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Schedule an Appointment",
+          "url": "https://hazard.kctcs.eduhttps://outlook.office365.com/owa/calendar/HCTCAdmissions@kctcs.onmicrosoft.com/bookings/"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://hazard.kctcs.edu/admissions/orientation/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://hazard.kctcs.eduhttps://hazard-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-hazard"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://hazard.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "title": "KCTCS Catalog",
+          "url": "https://hazard.kctcs.edu/education-training/class-schedules/course-catalog.aspx"
+        },
+        {
+          "source_page": "https://hazard.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://hazard.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://hazard.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://hazard.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://hazard.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://hazard.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://hazard.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Consumer Information And Student Right to Know",
+          "url": "https://hazard.kctcs.edu/affording-college/consumer_information.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://hazard.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://hazard.kctcs.edu/affording-college/childcare-vouchers.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://hazard.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Student Achievement Disclosure Information",
+          "url": "https://hazard.kctcs.edu/affording-college/student-achievement-disclosure-information/index.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://hazard.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Forge Your Way Forward",
+          "url": "https://hazard.kctcs.edu/affording-college/forge_way_forward.aspx"
+        },
+        {
+          "title": "HCTC Promise Scholarship",
+          "url": "https://hazard.kctcs.edu/affording-college/hctc-promise-scholarship.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://hazard.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://hazard.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Ready to Work",
+          "url": "https://hazard.kctcs.edu/workforce-solutions/ready-to-work.aspx"
+        },
+        {
+          "title": "Commencement Ceremony Information",
+          "url": "https://hazard.kctcs.edu/current-students/student-services/commencement-information.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://hazard.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://hazard.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://hazard.kctcs.eduhttps://hazard.kctcs.edu/about/student-life/cultural-diversity.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://hazard.kctcs.edu/about/student-life/campus-safety/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://hazard.kctcs.edu/about/student-life/title-ix/index.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://hazard.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://hazard.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://hazard.kctcs.eduhttps://kctcs.edu/current-students/therapy-assistance-online.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://hazard.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://hazard.kctcs.edu/affording-college/childcare-vouchers.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://hazard.kctcs.edu/about/student-life/parking-transportation.aspx"
+        },
+        {
+          "source_page": "https://hazard.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Henderson": {
+      "website": "https://henderson.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://henderson.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://henderson.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://henderson.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://henderson.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://henderson.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Credit for Prior Learning",
+          "url": "https://henderson.kctcs.edu/admissions/information-for/credit-for-prior-learning.aspx"
+        },
+        {
+          "title": "The Start Center",
+          "url": "https://henderson.kctcs.edu/current-students/academic-resources/start-center.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://henderson.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://henderson.kctcs.eduhttps://henderson-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-henderson"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://henderson.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "source_page": "https://henderson.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://henderson.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://henderson.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://henderson.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Apply for FAFSA Now!",
+          "url": "https://henderson.kctcs.eduhttps://studentaid.gov/h/apply-for-aid/fafsa"
+        },
+        {
+          "title": "Paying for College",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://henderson.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://henderson.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Bookstore Accounts",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/bookstore-accounts.aspx"
+        },
+        {
+          "title": "Financial Aid Dates",
+          "url": "https://henderson.kctcs.edu/affording-college/tuition-costs/financial-aid-dates.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/forms.aspx"
+        },
+        {
+          "title": "Financial Literacy",
+          "url": "https://henderson.kctcs.edu/affording-college/financial_literacy/index.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://henderson.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://henderson.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://henderson.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://henderson.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "source_page": "https://henderson.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://henderson.kctcs.edu#"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://henderson.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Military/Veterans",
+          "url": "https://henderson.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "title": "Diversity, Equity, & Inclusion",
+          "url": "https://henderson.kctcs.edu/about/student-life/dei/index.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://henderson.kctcs.edu/about/student-life/campus-safety.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://henderson.kctcs.edu/about/student-life/title-ix.aspx"
+        },
+        {
+          "title": "HCC Care Center",
+          "url": "https://henderson.kctcs.edu/about/student-life/hcc-carecenter-request.aspx"
+        },
+        {
+          "title": "Counseling",
+          "url": "https://henderson.kctcs.edu/current-students/counseling/index.aspx"
+        },
+        {
+          "title": "Tutoring",
+          "url": "https://henderson.kctcs.edu/current-students/academic-resources/tutoring.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://henderson.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://henderson.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Counseling",
+          "url": "https://henderson.kctcs.edu/current-students/counseling/index.aspx"
+        },
+        {
+          "title": "Activities & Organizations",
+          "url": "https://henderson.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "Community Service Agencies",
+          "url": "https://henderson.kctcs.eduhttps://southeast.kctcs.edu/current-students/chit-chat/community-resources.aspx"
+        },
+        {
+          "source_page": "https://henderson.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Hopkinsville": {
+      "website": "https://hopkinsville.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Admissions Information",
+          "url": "https://hopkinsville.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Academic Reinstatement Appeal",
+          "url": "https://hopkinsville.kctcs.edu/admissions/academic-reinstatement-appeal.aspx"
+        },
+        {
+          "title": "Course Catalog",
+          "url": "https://hopkinsville.kctcs.edu/education-training/class-schedules/course-catalog.aspx"
+        },
+        {
+          "title": "Military and Veterans",
+          "url": "https://hopkinsville.kctcs.edu/education-training/military-veterans/"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://hopkinsville.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://hopkinsville.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://hopkinsville.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://hopkinsville.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://hopkinsville.kctcs.eduhttps://hopkinsville-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-hopkinsville"
+        },
+        {
+          "title": "Fort Campbell Campus",
+          "url": "https://hopkinsville.kctcs.edu/about/campuses/fort-campbell.aspx"
+        },
+        {
+          "source_page": "https://hopkinsville.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://hopkinsville.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Academic Probation Process",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/hcc-academic-probation-process.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Rotary Scholars Program",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/rotary-scholars-program.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://hopkinsville.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://hopkinsville.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Financial Aid",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/index.aspx"
+        },
+        {
+          "title": "Refund Options",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/refund-options/index.aspx"
+        },
+        {
+          "title": "No Show Policy",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/no-show-policy.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Pathfinder Summer Bridge Program",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/Pathfinder%20Summer%20Bridge%20Program.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://hopkinsville.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Summer Aid",
+          "url": "https://hopkinsville.kctcs.edu/affording-college/summer-aid/summer-aid.aspx"
+        },
+        {
+          "source_page": "https://hopkinsville.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Academic Resources",
+          "url": "https://hopkinsville.kctcs.edu/current-students/academic-resources/index.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://hopkinsville.kctcs.edu/student-resources/tao.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://hopkinsville.kctcs.eduhttps://christiancountyhd.com/"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://hopkinsville.kctcs.eduhttps://www.cumberlandhallhospital.com/"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://hopkinsville.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://hopkinsville.kctcs.edu/about/student-life/Pathfinder%20Pantry.aspx"
+        },
+        {
+          "title": "Goode Family Student Emergency Fund",
+          "url": "https://hopkinsville.kctcs.edu/about/student-life/Goode%20Family%20Student%20Emergency%20Fund.aspx"
+        },
+        {
+          "title": "Laptop Loaner Program",
+          "url": "https://hopkinsville.kctcs.edu/about/student-life/Laptop%20Loaner%20Program.aspx"
+        },
+        {
+          "title": "Clothing",
+          "url": "https://hopkinsville.kctcs.eduhttps://southernusa.salvationarmy.org/Hopkinsville/"
+        },
+        {
+          "title": "Housing",
+          "url": "https://hopkinsville.kctcs.edu/student-resources/housing.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://hopkinsville.kctcs.eduhttp://www.pacs-ky.org/Public-Transportation"
+        },
+        {
+          "title": "MyKY.info",
+          "url": "https://hopkinsville.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "source_page": "https://hopkinsville.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Jefferson": {
+      "website": "https://jefferson.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://jefferson.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://jefferson.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://jefferson.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://jefferson.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Testing Center",
+          "url": "https://jefferson.kctcs.edu/admissions/testing-and-assessment/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://jefferson.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://jefferson.kctcs.edu/admissions/meet-your-admissions-team/orientation.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://jefferson.kctcs.eduhttp://help.jefferson.kctcs.edu"
+        },
+        {
+          "title": "Annual Security Report",
+          "url": "https://jefferson.kctcs.edu/campus-safety/reports/asr-info.aspx"
+        },
+        {
+          "title": "Metropolitan College",
+          "url": "https://jefferson.kctcs.eduhttps://metro-college.com/"
+        },
+        {
+          "source_page": "https://jefferson.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://jefferson.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://jefferson.kctcs.edu/financial-aid-checklist/index.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://jefferson.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://jefferson.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Refunds",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/refunds.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Terms to Know",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/terms-to-know.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://jefferson.kctcs.edu/affording-college/financial-aid-information/forms.aspx"
+        },
+        {
+          "title": "How to Pay Your Tuition",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://jefferson.kctcs.edu/affording-college/financial-aid-information/consumer-information.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://jefferson.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://jefferson.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Work Ready Kentucky Scholarship",
+          "url": "https://jefferson.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Financial Aid Information",
+          "url": "https://jefferson.kctcs.edu/affording-college/financial-aid-information/index.aspx"
+        },
+        {
+          "title": "Work and Learn Employer Programs",
+          "url": "https://jefferson.kctcs.edu/affording-college/work-learn-programs.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://jefferson.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Metropolitan College",
+          "url": "https://jefferson.kctcs.edu/affording-college/ups.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://jefferson.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://jefferson.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://jefferson.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Accessibility Services",
+          "url": "https://jefferson.kctcs.edu/about/student-life/accessibility-services/index.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://jefferson.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://jefferson.kctcs.edu/about/student-life/cultural-diversity.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://jefferson.kctcs.edu/about/student-life/campus-safety/index.aspx"
+        },
+        {
+          "title": "Student Life and Policies",
+          "url": "https://jefferson.kctcs.edu/about/student-life/title-ix/index.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://jefferson.kctcs.eduhttps://www.crew.cc/"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://jefferson.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://jefferson.kctcs.edu/current-students/counseling/index.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://jefferson.kctcs.edu/about/student-life/substance-abuse.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://jefferson.kctcs.edu/about/student-life/activities-organizations/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://jefferson.kctcs.edu/about/student-life/hub/index.aspx"
+        },
+        {
+          "title": "Clothing",
+          "url": "https://jefferson.kctcs.edu/about/student-life/hub/clothing-closet.aspx"
+        },
+        {
+          "title": "Title IX Community Resources",
+          "url": "https://jefferson.kctcs.edu/about/student-life/title-ix/community-resources.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://jefferson.kctcs.edu/student-resources/housing.aspx"
+        },
+        {
+          "title": "Request an Appointment at The Hub @ Jefferson",
+          "url": "https://jefferson.kctcs.edu/about/student-life/hub/index.aspx"
+        },
+        {
+          "source_page": "https://jefferson.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Madisonville": {
+      "website": "https://madisonville.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Admissions Information",
+          "url": "https://madisonville.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://madisonville.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://madisonville.kctcs.eduhttps://madisonville-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-madisonville"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://madisonville.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://madisonville.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Transfer Services",
+          "url": "https://madisonville.kctcs.edu/admissions/information-for/transfer-students.aspx"
+        },
+        {
+          "title": "Transcripts",
+          "url": "https://madisonville.kctcs.edu/current-students/academic-resources/transcripts.aspx"
+        },
+        {
+          "title": "Registration Information",
+          "url": "https://madisonville.kctcs.edu/current-students/academic-resources/advising.aspx"
+        },
+        {
+          "title": "Meet Your Admission Team",
+          "url": "https://madisonville.kctcs.edu/admissions/meet-your-admissions-team/index.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://madisonville.kctcs.edu/admissions/Orientation/orientation.aspx"
+        },
+        {
+          "source_page": "https://madisonville.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://madisonville.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://madisonville.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://madisonville.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://madisonville.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://madisonville.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://madisonville.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://madisonville.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://madisonville.kctcs.edu/affording-college/consumer-information-student-right-to-know/index.aspx"
+        },
+        {
+          "title": "Return of Title IV Funds Policy",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/return-of-title-iv-funds-policy.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://madisonville.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://madisonville.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://madisonville.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://madisonville.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Corrupti, error.",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "title": "Trio Student Support Services",
+          "url": "https://madisonville.kctcs.edu/about/student-life/trio-student-support-services.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://madisonville.kctcs.edu/about/student-life/disability-resources.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://madisonville.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://madisonville.kctcs.edu/about/student-life/cultural-diversity/index.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://madisonville.kctcs.edu/about/student-life/campus-safety/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://madisonville.kctcs.edu/about/student-life/title-ix/index.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://madisonville.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "kynect Support",
+          "url": "https://madisonville.kctcs.edu/about/student-life/mcc-kynect-support.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://madisonville.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://madisonville.kctcs.edu/current-students/therapy-assistance-online.aspx"
+        },
+        {
+          "title": "Activities & Organizations",
+          "url": "https://madisonville.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "MyKY",
+          "url": "https://madisonville.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "title": "Personalized Assistance Request",
+          "url": "https://madisonville.kctcs.edu#"
+        },
+        {
+          "source_page": "https://madisonville.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Maysville": {
+      "website": "https://maysville.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://maysville.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://maysville.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://maysville.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://maysville.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://maysville.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Meet Your Enrollment Team",
+          "url": "https://maysville.kctcs.edu/admissions/meet-your-admissions-team.aspx"
+        },
+        {
+          "title": "Setup Your Account",
+          "url": "https://maysville.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/K_IDA.K_IDA_UAC.GBL"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://maysville.kctcs.eduhttps://maysville-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-maysville"
+        },
+        {
+          "title": "Career Assessment",
+          "url": "https://maysville.kctcs.edu/admissions/career-assesment.aspx"
+        },
+        {
+          "source_page": "https://maysville.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://maysville.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Office",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/financial-aid-team.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://maysville.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Business Office (Student Billings)",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/business-office.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://maysville.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://maysville.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://maysville.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://maysville.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work Study",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://maysville.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Consumer\u00a0Information & Student Rights",
+          "url": "https://maysville.kctcs.edu/affording-college/consumer-information-student-right-to-know/index.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://maysville.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Fresh Start Debt Forgiveness Program",
+          "url": "https://maysville.kctcs.edu/freshstart/index.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://maysville.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://maysville.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://maysville.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Academic Resources",
+          "url": "https://maysville.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://maysville.kctcs.edu/current-students/counseling/index.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://maysville.kctcs.edu/current-students/counseling/therapy-assistance-online.aspx"
+        },
+        {
+          "title": "Activities & Organizations",
+          "url": "https://maysville.kctcs.edu/about/student-life/activities-organization.aspx"
+        },
+        {
+          "title": "Student Well-Being",
+          "url": "https://maysville.kctcs.edu/about/student-life/student-well-being.aspx"
+        },
+        {
+          "title": "Community Resources",
+          "url": "https://maysville.kctcs.edu/about/student-life/resources.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://maysville.kctcs.edu/current-students/academic-resources/ready-to-work.aspx"
+        },
+        {
+          "title": "Emergency Fund",
+          "url": "https://maysville.kctcs.edu/about/student-life/emergency-fund.aspx"
+        },
+        {
+          "title": "Personalized Assistance Request",
+          "url": "https://maysville.kctcs.edu#"
+        },
+        {
+          "source_page": "https://maysville.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Owensboro": {
+      "website": "https://owensboro.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Admissions Information",
+          "url": "https://owensboro.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Policy",
+          "url": "https://owensboro.kctcs.edu/admissions/admissions-policy.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://owensboro.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://owensboro.kctcs.edu/admissions/request-information/"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://owensboro.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/COMMUNITY_ACCESS.K_OLA_LANDING_FL.GBL?&Campus=OWC"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://owensboro.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Setup Your Account",
+          "url": "https://owensboro.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/K_IDA.K_IDA_UAC.GBL"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://owensboro.kctcs.eduhttps://owensboro-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-owensboro"
+        },
+        {
+          "source_page": "https://owensboro.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://owensboro.kctcs.edu/affording-college/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://owensboro.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://owensboro.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Cost of Attendance",
+          "url": "https://owensboro.kctcs.edu/affording-college/tuition-costs/cost-of-attendance.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://owensboro.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://owensboro.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://owensboro.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Consumer Information and Student Right-to-Know",
+          "url": "https://owensboro.kctcs.edu/affording-college/consumer-info.aspx"
+        },
+        {
+          "title": "Return of Title IV Funds Policy",
+          "url": "https://owensboro.kctcs.edu/affording-college/return-title-iv.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://owensboro.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://owensboro.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://owensboro.kctcs.edu/affording-college/paying-for-college/student-loan-repayemnt.aspx"
+        },
+        {
+          "title": "Recalculation Request",
+          "url": "https://owensboro.kctcs.edu/affording-college/paying-for-college/special-circumstances-recalculation/index.aspx"
+        },
+        {
+          "source_page": "https://owensboro.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Paying for College",
+          "url": "https://owensboro.kctcs.edu/affording-college/paying-for-college/"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://owensboro.kctcs.edu/current-students/student-services/ready-to-work/"
+        },
+        {
+          "title": "Veterans Affairs",
+          "url": "https://owensboro.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://owensboro.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Workforce Solutions",
+          "url": "https://owensboro.kctcs.edu/workforce-solutions/"
+        },
+        {
+          "title": "Assessment Center",
+          "url": "https://owensboro.kctcs.edu/admissions/placement-testing-assessment/"
+        },
+        {
+          "title": "Bookstore",
+          "url": "https://owensboro.kctcs.edu/current-students/student-resources/bookstore.aspx"
+        },
+        {
+          "title": "Childcare Resources",
+          "url": "https://owensboro.kctcs.edu/current-students/childcare-resources/"
+        },
+        {
+          "title": "Library",
+          "url": "https://owensboro.kctcs.edu/current-students/student-resources/library/"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://owensboro.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Student Support Services",
+          "url": "https://owensboro.kctcs.edu/about/student-life/student-support-services.aspx"
+        },
+        {
+          "title": "Counseling",
+          "url": "https://owensboro.kctcs.edu/current-students/counseling-center/"
+        },
+        {
+          "title": "ELC - Career Services",
+          "url": "https://owensboro.kctcs.edu/current-students/experiential-learning-center/"
+        },
+        {
+          "title": "Pathfinder Den",
+          "url": "https://owensboro.kctcs.edu/current-students/academic-resources/pathfinder-den/"
+        },
+        {
+          "title": "Code of Conduct",
+          "url": "https://owensboro.kctcs.edu/current-students/academic-resources/code-of-conduct.aspx"
+        },
+        {
+          "title": "Information Technology",
+          "url": "https://owensboro.kctcs.edu/current-students/information-technology/information_technology.aspx"
+        },
+        {
+          "title": "News You Can Use",
+          "url": "https://owensboro.kctcs.edu/education-training/class-schedules/news-you-can-use.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://owensboro.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://owensboro.kctcs.edu/about/student-life/campus-safety.aspx"
+        },
+        {
+          "title": "Career Services - ELC",
+          "url": "https://owensboro.kctcs.edu/current-students/experiential-learning-center/index.aspx"
+        },
+        {
+          "title": "Childcare Resources",
+          "url": "https://owensboro.kctcs.edu/current-students/childcare-resources/index.aspx"
+        },
+        {
+          "title": "Concerns/Complaints",
+          "url": "https://owensboro.kctcs.edu/current-students/complaint-referral/"
+        },
+        {
+          "title": "Counseling & Mental Health Resources",
+          "url": "https://owensboro.kctcs.edu/current-students/counseling-center/index.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://owensboro.kctcs.edu/about/student-life/cultural-diversity.aspx"
+        },
+        {
+          "title": "Online Student Resources",
+          "url": "https://owensboro.kctcs.edu/current-students/academic-resources/online-student-resources.aspx"
+        },
+        {
+          "title": "Ready to Work",
+          "url": "https://owensboro.kctcs.edu/current-students/student-services/ready-to-work/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://owensboro.kctcs.edu/about/student-life/title-ix/index.aspx"
+        },
+        {
+          "title": "TRIO Support Services",
+          "url": "https://owensboro.kctcs.edu/trio/index.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://owensboro.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://owensboro.kctcs.edu/current-students/academic-resources/index.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://owensboro.kctcs.edu/student-resources/mental-health.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://owensboro.kctcs.edu/student-resources/healthcare.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://owensboro.kctcs.edu/student-resources/substance-use-recovery.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://owensboro.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://owensboro.kctcs.edu/student-resources/nutrition.aspx"
+        },
+        {
+          "title": "Clothing",
+          "url": "https://owensboro.kctcs.edu/student-resources/clothing.aspx"
+        },
+        {
+          "title": "Community Resources",
+          "url": "https://owensboro.kctcs.edu/student-resources/community.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://owensboro.kctcs.edu/student-resources/childcare.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://owensboro.kctcs.eduhttps://southeast.kctcs.edu/current-students/chit-chat/housing.aspx"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://owensboro.kctcs.edu/student-resources/transportation.aspx"
+        },
+        {
+          "title": "MyKY.info",
+          "url": "https://owensboro.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "title": "Legal Resources",
+          "url": "https://owensboro.kctcs.eduhttps://kctcs.sharepoint.com/sites/StudentLegalResources?e=1%3Aec90b2ea8d314ce8bb91cad0f20f6b4d"
+        },
+        {
+          "title": "Dental",
+          "url": "https://owensboro.kctcs.edu/student-resources/dental.aspx"
+        },
+        {
+          "title": "LGBTQIA",
+          "url": "https://owensboro.kctcs.edu/student-resources/lbgtq.aspx"
+        },
+        {
+          "title": "Pregnancy",
+          "url": "https://owensboro.kctcs.edu/student-resources/pregnancy.aspx"
+        },
+        {
+          "source_page": "https://owensboro.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Somerset": {
+      "website": "https://somerset.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://somerset.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://somerset.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "My Path to Enrollment",
+          "url": "https://somerset.kctcs.edu/admissions/my-path-to-enrollment.aspx"
+        },
+        {
+          "title": "Virtual Student Services",
+          "url": "https://somerset.kctcs.edu/admissions/virtual-student-services/index.aspx"
+        },
+        {
+          "title": "Meet Your Admissions Team",
+          "url": "https://somerset.kctcs.edu/admissions/meet-your-admissions-team/index.aspx"
+        },
+        {
+          "title": "Honors Program",
+          "url": "https://somerset.kctcs.edu/admissions/honors-program/index.aspx"
+        },
+        {
+          "title": "SCC Student Fellows",
+          "url": "https://somerset.kctcs.edu/admissions/student-fellows-program/student-fellows-program.aspx"
+        },
+        {
+          "title": "Health Sciences Admissions Information",
+          "url": "https://somerset.kctcs.edu/admissions/health_sciences_admissions_information.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://somerset.kctcs.edu/admissions/orientation/index.aspx"
+        },
+        {
+          "title": "International Students",
+          "url": "https://somerset.kctcs.edu/admissions/information-for/international-students/index.aspx"
+        },
+        {
+          "title": "Kentucky Residency",
+          "url": "https://somerset.kctcs.edu/admissions/residency.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://somerset.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://somerset.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://somerset.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://somerset.kctcs.eduhttps://somerset-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-somerset"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://somerset.kctcs.edu/contact-us.aspx"
+        },
+        {
+          "source_page": "https://somerset.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://somerset.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://somerset.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://somerset.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://somerset.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://somerset.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://somerset.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "University Center of Southern Kentucky",
+          "url": "https://somerset.kctcs.edu/about/campuses/university-center-of-southern-kentucky/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Kentucky Residency",
+          "url": "https://somerset.kctcs.edu/admissions/residency.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://somerset.kctcs.edu/education-training/work-ready/index.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/consumer-information-student-right-to-know.aspx"
+        },
+        {
+          "title": "Withdraws and Financial Aid (R2T4 Policy)",
+          "url": "https://somerset.kctcs.edu/affording-college/withdraw_r2t4/index.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://somerset.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Financial Aid Disbursement and Refund Schedule",
+          "url": "https://somerset.kctcs.edu/affording-college/paying-for-college/financial-aid-refunds.aspx"
+        },
+        {
+          "title": "Military & Veterans Resources",
+          "url": "https://somerset.kctcs.edu/education-training/military-veterans/index.aspx"
+        },
+        {
+          "source_page": "https://somerset.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Academic Resources",
+          "url": "https://somerset.kctcs.edu/student-resources/academic-resources.aspx"
+        },
+        {
+          "title": "Health",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/resources.aspx#health"
+        },
+        {
+          "title": "Activities & Organizations",
+          "url": "https://somerset.kctcs.edu/about/student-life/activities-organizations/index.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/resources.aspx#food"
+        },
+        {
+          "title": "Clothing for Interviews",
+          "url": "https://somerset.kctcs.edu/about/student-life/career-services/index.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/resources.aspx#parenting"
+        },
+        {
+          "title": "Fitness Centers",
+          "url": "https://somerset.kctcs.edu/current-students/campus-life/scc-fitness-centers.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/resources.aspx#housing"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/resources.aspx#transportation"
+        },
+        {
+          "title": "Legal Resources",
+          "url": "https://somerset.kctcs.eduhttps://kctcs.sharepoint.com/sites/StudentLegalResources?e=1%3Aec90b2ea8d314ce8bb91cad0f20f6b4d"
+        },
+        {
+          "title": "Connect with a Success Coach",
+          "url": "https://somerset.kctcs.edu/current-students/academic-resources/college-navigators/index.aspx"
+        },
+        {
+          "source_page": "https://somerset.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Southcentral": {
+      "website": "https://southcentral.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://southcentral.kctcs.edu/admissions/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://southcentral.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Admissions Forms",
+          "url": "https://southcentral.kctcs.edu/admissions/forms/index.aspx"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://southcentral.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://southcentral.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Setup Your User Account",
+          "url": "https://southcentral.kctcs.edu/admissions/user-account-center-setup.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://southcentral.kctcs.eduhttps://southcentral-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-southcentral"
+        },
+        {
+          "title": "SKYCTC Video Tours",
+          "url": "https://southcentral.kctcs.edu/admissions/video-tour.aspx"
+        },
+        {
+          "title": "Student Services Appointments",
+          "url": "https://southcentral.kctcs.edu/admissions/student-service-appointments.aspx"
+        },
+        {
+          "title": "Understanding Credit Hours",
+          "url": "https://southcentral.kctcs.edu/admissions/understanding-credit-hours.aspx"
+        },
+        {
+          "source_page": "https://southcentral.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://southcentral.kctcs.edu/financial-aid-checklist/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://southcentral.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Important Dates/Academic Calendar",
+          "url": "https://southcentral.kctcs.edu/education-training/academic-calendar/index.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Rights of Recipient",
+          "url": "https://southcentral.kctcs.edu/affording-college/consumer-information-student-right-to-know/rights-of-recipient.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/loans/index.aspx"
+        },
+        {
+          "title": "FAFSA Simplification",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/fafsa-simplification.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://southcentral.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://southcentral.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://southcentral.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://southcentral.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Financial Aid Forms",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/financial-aid-forms.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://southcentral.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Appointments",
+          "url": "https://southcentral.kctcs.edu/admissions/student-service-appointments.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://southcentral.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://southcentral.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://southcentral.kctcs.edu/affording-college/consumer-information-student-right-to-know/index.aspx"
+        },
+        {
+          "source_page": "https://southcentral.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Academic Resources",
+          "url": "https://southcentral.kctcs.edu/current-students/academic-resources/index.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://southcentral.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://southcentral.kctcs.edu/about/student-life/military-veterans/index.aspx"
+        },
+        {
+          "title": "kynect",
+          "url": "https://southcentral.kctcs.edu/student-resources/kynect.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://southcentral.kctcs.edu/about/student-life/counseling-services.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://southcentral.kctcs.edu/student-resources/healthcare.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://southcentral.kctcs.eduhttps://startyourrecovery.org/treatment/rehab-centers/kentucky/bowling-green"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://southcentral.kctcs.edu/about/student-life/activities-organizations.aspx"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://southcentral.kctcs.edu/about/student-life/grow.aspx"
+        },
+        {
+          "title": "Student Emergency Fund",
+          "url": "https://southcentral.kctcs.edu/current-students/student-resources/student-emergency-fund/student-emergency-fund-application.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://southcentral.kctcs.eduhttps://familyscholarhouse.org/"
+        },
+        {
+          "title": "Diversity and Inclusion",
+          "url": "https://southcentral.kctcs.edu/about/student-life/equity-inclusion/index.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://southcentral.kctcs.edu/about/student-life/campus-safety.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://southcentral.kctcs.edu/about/student-life/title-ix.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://southcentral.kctcs.edu/current-students/student-resources/career-services/index.aspx"
+        },
+        {
+          "title": "Trio",
+          "url": "https://southcentral.kctcs.edu/about/student-life/student-support-services/index.aspx"
+        },
+        {
+          "title": "Legal Resources",
+          "url": "https://southcentral.kctcs.eduhttps://kctcs.sharepoint.com/sites/StudentLegalResources?e=1%3Aec90b2ea8d314ce8bb91cad0f20f6b4d"
+        },
+        {
+          "title": "MyKY.info",
+          "url": "https://southcentral.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "title": "BRASS Inc.",
+          "url": "https://southcentral.kctcs.eduhttps://www.brassinc.org/"
+        },
+        {
+          "title": "Community Action of Southern Kentucky",
+          "url": "https://southcentral.kctcs.eduhttps://www.casoky.org/allen"
+        },
+        {
+          "title": "Housing Authority of Scottsville",
+          "url": "https://southcentral.kctcs.eduhttps://affordablehousingonline.com/housing-authority/Kentucky/Housing-Authority-of-Scottsville/KY104"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/locations/allen"
+        },
+        {
+          "title": "Scottsville Transit",
+          "url": "https://southcentral.kctcs.eduhttps://www.cityofscottsville.org/pages/offices/transit"
+        },
+        {
+          "title": "True Gospel Fellowship",
+          "url": "https://southcentral.kctcs.eduhttps://www.facebook.com/pages/True-Gospel-Fellowship-Church/113903468640420/"
+        },
+        {
+          "title": "BRASS",
+          "url": "https://southcentral.kctcs.eduhttps://www.brassinc.org/"
+        },
+        {
+          "title": "Glasgow Transit System",
+          "url": "https://southcentral.kctcs.eduhttps://cityofglasgow.org/city_departments/public_works/"
+        },
+        {
+          "title": "Habitat for Humanity",
+          "url": "https://southcentral.kctcs.eduhttps://www.habitat.org/"
+        },
+        {
+          "title": "HANDS",
+          "url": "https://southcentral.kctcs.eduhttps://www.barrenriverhealth.org/hands-program"
+        },
+        {
+          "title": "Hope Harbor",
+          "url": "https://southcentral.kctcs.eduhttps://hopeharbor.net/"
+        },
+        {
+          "title": "Housing Authority of Glasgow",
+          "url": "https://southcentral.kctcs.eduhttp://www.haglasgow.com/"
+        },
+        {
+          "title": "Pathfinder Pantry",
+          "url": "https://southcentral.kctcs.edu/about/student-life/grow.aspx"
+        },
+        {
+          "title": "Head Start",
+          "url": "https://southcentral.kctcs.eduhttps://headstartprograms.org/center-181088.html"
+        },
+        {
+          "title": "Housing authority of Morgantown",
+          "url": "https://southcentral.kctcs.eduhttps://www.mtownha.org/"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/"
+        },
+        {
+          "title": "MOGO shuttle",
+          "url": "https://southcentral.kctcs.eduhttps://morgantown-ky.com/resident-resources/mogo-transportation/"
+        },
+        {
+          "title": "Morgantown Mission",
+          "url": "https://southcentral.kctcs.eduhttps://www.facebook.com/morgantown.mission.2023"
+        },
+        {
+          "title": "Brownsville Manor Apartments",
+          "url": "https://southcentral.kctcs.eduhttps://www.facebook.com/BrownsvilleManorAPTS/"
+        },
+        {
+          "title": "Community Action of Southern Kentucky",
+          "url": "https://southcentral.kctcs.eduhttps://www.casoky.org/edmonson"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/locations/edmonson"
+        },
+        {
+          "title": "St. John",
+          "url": "https://southcentral.kctcs.eduhttps://stjohnch.org/organizations-1"
+        },
+        {
+          "title": "Head Start",
+          "url": "https://southcentral.kctcs.eduhttps://headstartprograms.org/center-181088.html"
+        },
+        {
+          "title": "Hart Addiction Resource Team",
+          "url": "https://southcentral.kctcs.eduhttps://hartcountyky.org/hc-me/hart-addiction-resource-team/"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/"
+        },
+        {
+          "title": "Housing Authority of Horse Cave",
+          "url": "https://southcentral.kctcs.eduhttps://www.horsecaveky.org/housing-authority"
+        },
+        {
+          "title": "WJCR Food Ministry",
+          "url": "https://southcentral.kctcs.eduhttp://www.wjcr.org/food-ministry.asp"
+        },
+        {
+          "title": "Advanced Behavioral Consultants (ABC)",
+          "url": "https://southcentral.kctcs.eduhttps://www.rehab.com/advanced-behavioral-consultants-russellville"
+        },
+        {
+          "title": "Agape Counseling Services",
+          "url": "https://southcentral.kctcs.eduhttps://detoxtorehab.com/directory/agape-counseling-services-russellville/"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/"
+        },
+        {
+          "title": "Community Action of Southern Kentucky \u2013 Logan County",
+          "url": "https://southcentral.kctcs.eduhttp://www.casoky.org/"
+        },
+        {
+          "title": "Russellville Housing Authority",
+          "url": "https://southcentral.kctcs.eduhttps://www.countyoffice.org/russellville-housing-authority-russellville-ky-288/"
+        },
+        {
+          "title": "Metcalfe County Community Action Service",
+          "url": "https://southcentral.kctcs.eduhttps://www.casoky.org/metcalfe"
+        },
+        {
+          "title": "Metcalfe County Youth Service Center",
+          "url": "https://southcentral.kctcs.eduhttps://mcms.metcalfe.kyschools.us/resources/youth-service-center"
+        },
+        {
+          "title": "LifeSkills Service Center - Metcalfe County",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/locations/metcalfe"
+        },
+        {
+          "title": "Feed America/Metcalfe County Food Pantry",
+          "url": "https://southcentral.kctcs.eduhttps://feedingamericaky.org/agency-spotlight-metcalfe-county-food-pantry/"
+        },
+        {
+          "title": "Abuse and Neglect",
+          "url": "https://southcentral.kctcs.eduhttps://www.mcmccares.com/directory/community.php"
+        },
+        {
+          "title": "Community Outreach Shelter",
+          "url": "https://southcentral.kctcs.eduhttps://www.facebook.com/communityoutreachshelter/"
+        },
+        {
+          "title": "Lifeskills",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/"
+        },
+        {
+          "title": "Housing Authority of Tompkinsville",
+          "url": "https://southcentral.kctcs.eduhttp://tvilleha.com/wordpress/"
+        },
+        {
+          "title": "Community Outreach Shelter",
+          "url": "https://southcentral.kctcs.eduhttps://communityoutreach9.wixsite.com/outreach"
+        },
+        {
+          "title": "RurL Transit Enterprises Coordinated",
+          "url": "https://southcentral.kctcs.eduhttps://www.ridertec.org/"
+        },
+        {
+          "title": "Community Action of Southern Kentucky",
+          "url": "https://southcentral.kctcs.eduhttps://www.casoky.org/simpson"
+        },
+        {
+          "title": "Housing Authority of Franklin",
+          "url": "https://southcentral.kctcs.eduhttps://www.housingauthorityfranklin.org"
+        },
+        {
+          "title": "Life Skills Service Center - Simpson County",
+          "url": "https://southcentral.kctcs.eduhttps://www.lifeskills.com/locations/simpson"
+        },
+        {
+          "title": "American Red Cross \u2013 South Central Kentucky Chapter",
+          "url": "https://southcentral.kctcs.eduhttps://www.redcross.org/local/kentucky/about-us/locations/south-central-kentucky-chapter.html"
+        },
+        {
+          "title": "Community Education in Bowling and Warren County",
+          "url": "https://southcentral.kctcs.eduhttps://www.commed.us/about-us/"
+        },
+        {
+          "title": "Fuller Life Counseling Partners",
+          "url": "https://southcentral.kctcs.eduhttps://www.fullerlifecounseling.org/"
+        },
+        {
+          "title": "Hope Harbor",
+          "url": "https://southcentral.kctcs.eduhttps://hopeharbor.net/"
+        },
+        {
+          "title": "KY Steps Behavioral Health Services",
+          "url": "https://southcentral.kctcs.eduhttps://www.kysteps.com/mental-health-counseling"
+        },
+        {
+          "title": "The Housing Division of the City of Bowling Green: A High",
+          "url": "https://southcentral.kctcs.eduhttps://www.bgky.org/ncs/housing"
+        },
+        {
+          "title": "Bowling Green Public Transit",
+          "url": "https://southcentral.kctcs.eduhttps://www.bgky.org/transit"
+        },
+        {
+          "title": "International Center of Kentucky",
+          "url": "https://southcentral.kctcs.eduhttps://www.icofky.com/about-us"
+        },
+        {
+          "source_page": "https://southcentral.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "Southeast": {
+      "website": "https://southeast.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Admissions Information",
+          "url": "https://southeast.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Meet Your Admissions Team",
+          "url": "https://southeast.kctcs.edu/admissions/meet-your-admissions-team/index.aspx"
+        },
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://southeast.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://southeast.kctcs.edu/admissions/orientation/index.aspx"
+        },
+        {
+          "title": "Student Right to Know",
+          "url": "https://southeast.kctcs.edu/admissions/student-right-to-know/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://southeast.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://southeast.kctcs.eduhttps://students.kctcs.edu/psc/stdsaprd/EMPLOYEE/SA/c/COMMUNITY_ACCESS.K_OLA_LANDING_FL.GBL?&Campus=SEC"
+        },
+        {
+          "title": "Placement Testing & Assessment",
+          "url": "https://southeast.kctcs.edu/admissions/placement-testing-assessment/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://southeast.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://southeast.kctcs.eduhttps://southeast-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-southeastkentucky"
+        },
+        {
+          "source_page": "https://southeast.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "2024-2025 FAFSA Changes",
+          "url": "https://southeast.kctcs.edu/affording-college/2024-2025-fafsa-changes.aspx"
+        },
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://southeast.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://southeast.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://southeast.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://southeast.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://southeast.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/scholarships.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Work Ready KY",
+          "url": "https://southeast.kctcs.edu/education-training/apprentice-opportunities/work-ready-kentucky.aspx"
+        },
+        {
+          "title": "Payment Plans",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/payment-plans.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://southeast.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://southeast.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://southeast.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "source_page": "https://southeast.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Career and Majors Exploration",
+          "url": "https://southeast.kctcs.edu/current-students/student-services/career-majors-exploration.aspx"
+        },
+        {
+          "title": "College Recruiter Visits & Events",
+          "url": "https://southeast.kctcs.edu/current-students/student-services/college-recruiter-visits-events.aspx"
+        },
+        {
+          "title": "The Transfer Process",
+          "url": "https://southeast.kctcs.edu/current-students/student-services/college-transfer-process-contacts.aspx"
+        },
+        {
+          "title": "Employment Search & Resources",
+          "url": "https://southeast.kctcs.edu/current-students/student-services/employment-search-resources.aspx"
+        },
+        {
+          "title": "Snow Schedule",
+          "url": "https://southeast.kctcs.edu/current-students/student-services/snow-schedule.aspx"
+        },
+        {
+          "title": "Accessibility Services",
+          "url": "https://southeast.kctcs.edu/about/student-life/accessibility-services.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://southeast.kctcs.edu/about/student-life/veterans-services.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://southeast.kctcs.edu/about/student-life/cultural-diversity.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://southeast.kctcs.edu/about/student-life/campus-safety.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://southeast.kctcs.edu/about/student-life/title-ix.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://southeast.kctcs.edu/about/student-life/career-services.aspx"
+        },
+        {
+          "source_page": "https://southeast.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    },
+    "West Kentucky": {
+      "website": "https://westkentucky.kctcs.edu",
+      "admissions": [
+        {
+          "title": "Enrollment Checklist",
+          "url": "https://westkentucky.kctcs.edu/enrollment-checklist.aspx"
+        },
+        {
+          "title": "Admissions Information",
+          "url": "https://westkentucky.kctcs.edu/admissions/information-for/index.aspx"
+        },
+        {
+          "title": "Orientation",
+          "url": "https://westkentucky.kctcs.edu/admissions/orientation/index.aspx"
+        },
+        {
+          "title": "Campus Tours",
+          "url": "https://westkentucky.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Records",
+          "url": "https://westkentucky.kctcs.edu/admissions/records/index.aspx"
+        },
+        {
+          "title": "Request Information",
+          "url": "https://westkentucky.kctcs.edu/admissions/request-information/index.aspx"
+        },
+        {
+          "title": "Schedule a Campus Visit",
+          "url": "https://westkentucky.kctcs.edu/admissions/schedule-a-campus-visit/index.aspx"
+        },
+        {
+          "title": "Start Your Application",
+          "url": "https://westkentucky.kctcs.edu/admissions/start-your-application/index.aspx"
+        },
+        {
+          "title": "Study Abroad",
+          "url": "https://westkentucky.kctcs.edu/admissions/study-abroad/index.aspx"
+        },
+        {
+          "title": "Online Learning",
+          "url": "https://westkentucky.kctcs.edu/admissions/information-for/online-distance-learners/index.aspx"
+        },
+        {
+          "title": "Go KCTCS! Student Service Center",
+          "url": "https://westkentucky.kctcs.eduhttps://westkentucky-kctcs.edusupportcenter.com/sims/helpcenter/common/layout/SelfHelpHome.seam?inst_name=kctcs-westkentucky"
+        },
+        {
+          "title": "MyPath Activation",
+          "url": "https://westkentucky.kctcs.edu/admissions/mypath/index.aspx"
+        },
+        {
+          "source_page": "https://westkentucky.kctcs.edu/admissions"
+        }
+      ],
+      "tuition": [
+        {
+          "title": "Financial Aid Checklist",
+          "url": "https://westkentucky.kctcs.edu/financial-aid-checklist.aspx"
+        },
+        {
+          "title": "Tuition & Costs",
+          "url": "https://westkentucky.kctcs.edu/affording-college/tuition-costs/index.aspx"
+        },
+        {
+          "title": "Net Price Calculator",
+          "url": "https://westkentucky.kctcs.edu/affording-college/net-price-calculator/index.aspx"
+        },
+        {
+          "title": "Scholarships",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/scholarships/index.aspx"
+        },
+        {
+          "title": "Loans",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/loans.aspx"
+        },
+        {
+          "title": "Refunds",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/refunds.aspx"
+        },
+        {
+          "title": "Grants",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/grants.aspx"
+        },
+        {
+          "title": "Work-Study",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/work-study.aspx"
+        },
+        {
+          "title": "Terms to Know",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/terms-to-know.aspx"
+        },
+        {
+          "title": "How to Pay Your Tuition",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/paying-tuition-fees/index.aspx"
+        },
+        {
+          "title": "Consumer Information & Student Right to Know",
+          "url": "https://westkentucky.kctcs.edu/about/consumer-information/index.aspx"
+        },
+        {
+          "title": "Satisfactory Academic Progress (SAP)",
+          "url": "https://westkentucky.kctcs.edu/affording-college/satisfactory-academic-progress/index.aspx"
+        },
+        {
+          "title": "Program Applicability",
+          "url": "https://westkentucky.kctcs.edu/affording-college/program-applicability/index.aspx"
+        },
+        {
+          "title": "Info for Veterans",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/veterans/index.aspx"
+        },
+        {
+          "title": "CARES Act Disbursement Information",
+          "url": "https://westkentucky.kctcs.edu/affording-college/disbursement-information.aspx"
+        },
+        {
+          "title": "WKCTC Student Debt Payback",
+          "url": "https://westkentucky.kctcs.edu/affording-college/fresh-start/index.aspx"
+        },
+        {
+          "title": "Financial Aid Videos",
+          "url": "https://westkentucky.kctcs.edu/financial-aid/index.aspx"
+        },
+        {
+          "title": "Student Loan Forgiveness",
+          "url": "https://westkentucky.kctcs.edu/affording-college/paying-for-college/student-loan-forgiveness.aspx"
+        },
+        {
+          "title": "Professional Judgement",
+          "url": "https://westkentucky.kctcs.edu/affording-college/professional-judgement.aspx"
+        },
+        {
+          "source_page": "https://westkentucky.kctcs.edu/affording-college"
+        }
+      ],
+      "student-support-services": [
+        {
+          "title": "Accessibility Services",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/accessibility-services/index.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/veterans/index.aspx"
+        },
+        {
+          "title": "Cultural Diversity",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/cultural-diversity/index.aspx"
+        },
+        {
+          "title": "Campus Safety",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/campus-safety/index.aspx"
+        },
+        {
+          "title": "Title IX",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/title-ix/index.aspx"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://westkentucky.kctcs.edu/alumni/career-services/index.aspx"
+        },
+        {
+          "title": "Merit",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/merit/index.aspx"
+        },
+        {
+          "title": "Weather Policy",
+          "url": "https://westkentucky.kctcs.edu/current-students/student-resources/weather.aspx"
+        },
+        {
+          "title": "Counseling Services",
+          "url": "https://westkentucky.kctcs.edu/current-students/counseling/index.aspx"
+        },
+        {
+          "title": "Academic Resources",
+          "url": "https://westkentucky.kctcs.edu/current-students/academic-resources/index.aspx"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/veterans/index.aspx"
+        },
+        {
+          "title": "Mental Health",
+          "url": "https://westkentucky.kctcs.edu/student-resources/mental-health.aspx"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://westkentucky.kctcs.edu/student-resources/healthcare.aspx"
+        },
+        {
+          "title": "Substance Use and Recovery",
+          "url": "https://westkentucky.kctcs.edu/student-resources/substance-use-and-recovery.aspx"
+        },
+        {
+          "title": "Clubs and Activities",
+          "url": "https://westkentucky.kctcs.edu#"
+        },
+        {
+          "title": "Nutrition",
+          "url": "https://westkentucky.kctcs.edu/about/student-life/campus-cupboard.aspx"
+        },
+        {
+          "title": "Clothing",
+          "url": "https://westkentucky.kctcs.eduhttp://www.fsspaducah.com/"
+        },
+        {
+          "title": "Career Services",
+          "url": "https://westkentucky.kctcs.edu/alumni/career-services/index.aspx"
+        },
+        {
+          "title": "Community Resources",
+          "url": "https://westkentucky.kctcs.edu/student-resources/community-resources.aspx"
+        },
+        {
+          "title": "Child Care",
+          "url": "https://westkentucky.kctcs.edu/student-resources/childcare.aspx"
+        },
+        {
+          "title": "Housing",
+          "url": "https://westkentucky.kctcs.edu/student-resources/housing.aspx"
+        },
+        {
+          "title": "Legal Resources",
+          "url": "https://westkentucky.kctcs.eduhttps://kctcs.sharepoint.com/sites/StudentLegalResources?e=1%3Aec90b2ea8d314ce8bb91cad0f20f6b4d"
+        },
+        {
+          "title": "Transportation",
+          "url": "https://westkentucky.kctcs.eduhttps://www.paducahtransit.com/"
+        },
+        {
+          "title": "MyKY.info",
+          "url": "https://westkentucky.kctcs.eduhttps://myky.info/#/"
+        },
+        {
+          "title": "kynect",
+          "url": "https://westkentucky.kctcs.edu/student-resources/kynect.aspx"
+        },
+        {
+          "source_page": "https://westkentucky.kctcs.edu/student-resources/index.aspx"
+        }
+      ]
+    }
+  }
+}
